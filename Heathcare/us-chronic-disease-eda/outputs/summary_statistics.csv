@@ -1,0 +1,12 @@
+,YearStart,YearEnd,LocationAbbr,LocationDesc,DataSource,Topic,Question,Response,DataValueUnit,DataValueType,DataValue,DataValueAlt,DataValueFootnoteSymbol,DataValueFootnote,LowConfidenceLimit,HighConfidenceLimit,StratificationCategory1,Stratification1,StratificationCategory2,Stratification2,StratificationCategory3,Stratification3,Geolocation,LocationID,TopicID,QuestionID,ResponseID,DataValueTypeID,StratificationCategoryID1,StratificationID1,StratificationCategoryID2,StratificationID2,StratificationCategoryID3,StratificationID3
+count,309215.0,309215.0,309215,309215,309215,309215,309215,0.0,309215,309215,209196.0,209196.0,101716,101716,188885.0,188890.0,309215,309215,0.0,0.0,0.0,0.0,303452,309215.0,309215,309215,0.0,309215,309215,309215,0.0,0.0,0.0,0.0
+unique,,,55,55,14,19,109,,8,12,,,9,9,,,5,26,,,,,54,,19,109,,12,5,26,,,,
+top,,,US,United States,BRFSS,Cardiovascular Disease,Binge drinking frequency among adults who binge drink,,%,Crude Prevalence,,,****,Data suppressed; denominator < 50 or relative standard error > 30%,,,Race/Ethnicity,Overall,,,,,POINT (-85.77449091399967 35.68094058000048),,CVD,ALC04,,CRDPREV,RACE,OVR,,,,
+freq,,,5763,5763,195594,30709,5720,,203382,128198,,,52652,52652,,,188664,29201,,,,,5750,,30709,5720,,128198,188664,29201,,,,
+mean,2020.012195398024,2020.2885403360121,,,,,,,,,694.356855006788,735.6701019139946,,,36.825051221642795,46.03055407909365,,,,,,,,31.208692980612195,,,,,,,,,,
+std,1.5308346517109888,1.068590668318766,,,,,,,,,16203.413041222999,18347.15062184246,,,65.02558991583416,69.99564269245579,,,,,,,,17.798773040547264,,,,,,,,,,
+min,2015.0,2019.0,,,,,,,,,0.0,0.0,,,0.0,0.0,,,,,,,,1.0,,,,,,,,,,
+25%,2019.0,2019.0,,,,,,,,,12.4,12.4,,,9.1,14.0,,,,,,,,17.0,,,,,,,,,,
+50%,2020.0,2020.0,,,,,,,,,27.0,27.0,,,19.5,29.2,,,,,,,,31.0,,,,,,,,,,
+75%,2021.0,2021.0,,,,,,,,,57.8,57.8,,,40.3,54.3,,,,,,,,45.0,,,,,,,,,,
+max,2022.0,2022.0,,,,,,,,,2925456.0,2925456.0,,,1427.0,1485.9,,,,,,,,78.0,,,,,,,,,,
