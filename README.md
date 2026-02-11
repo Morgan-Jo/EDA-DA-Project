@@ -1,5 +1,14 @@
 # EDA-DA-Project
 
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DuckDB%20%7C%20SQLite-003B57?logo=duckdb&logoColor=white)
+![R](https://img.shields.io/badge/R-4.3+-276DC3?logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboard-4285F4?style=flat&logo=googleanalytics&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 ## Overview
 Exploratory Data Analysis projects using Python, R, and SQL to understand data structure, generate summary statistics, and detect anomalies.  
 Each project demonstrates data cleaning, validation, and a clear workflow from raw data to insight ready outputs.  
