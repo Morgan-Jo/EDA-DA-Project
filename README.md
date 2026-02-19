@@ -87,12 +87,14 @@ EDA-DA-Project/
 │
 ├── E-Commerce, Marketing, Sales, Retail & Social Media/
 │   ├── coffee-vending-eda/
-│   └── sales-insights-eda/
+│   ├── sales-insights-eda/
+│   └── size-fit-return-prediction/
 │
 ├── Operations, Supply Chain & Logistics/
 │   └── shipping_bottleneck_analysis/
 │
 ├── Technology/
+│   └── app-store-performance-analyser/
 │
 ├── Sport/                   
 │
