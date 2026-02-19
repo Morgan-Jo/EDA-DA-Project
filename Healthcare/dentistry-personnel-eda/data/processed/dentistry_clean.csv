@@ -1,0 +1,3106 @@
+Region,Country,Year,Dentists_Per_10000
+Africa,"Central African Republic",2023,0.01
+Africa,Chad,2023,0.01
+Africa,Benin,2023,0.05
+"Western Pacific","Papua New Guinea",2023,0.05
+Africa,"Burkina Faso",2023,0.06
+Africa,Guinea-Bissau,2023,0.1
+Africa,Mozambique,2023,0.11
+Africa,Senegal,2023,0.11
+Africa,"Cote d'Ivoire",2023,0.14
+Africa,Zambia,2023,0.14
+Africa,"Cabo Verde",2023,0.15
+Africa,"South Africa",2023,0.19
+Africa,Eswatini,2023,0.28
+Africa,Zimbabwe,2023,0.3
+Africa,Botswana,2023,0.36
+"Western Pacific","Solomon Islands",2023,0.51
+Europe,Montenegro,2023,0.58
+"South-East Asia",Bangladesh,2023,0.76
+"South-East Asia","Sri Lanka",2023,0.96
+"Western Pacific",Indonesia,2023,1.03
+Europe,Turkmenistan,2023,1.24
+Europe,Tajikistan,2023,1.5
+Europe,Kyrgyzstan,2023,1.56
+Americas,"El Salvador",2023,1.57
+"South-East Asia",Nepal,2023,1.64
+Europe,Poland,2023,10.73
+Americas,Argentina,2023,10.86
+Europe,Belgium,2023,11.92
+Europe,Andorra,2023,12.11
+Americas,Chile,2023,16.77
+Europe,Lithuania,2023,16.84
+Europe,Kazakhstan,2023,2.13
+Americas,Peru,2023,2.15
+Americas,Guatemala,2023,2.68
+Americas,"Dominican Republic",2023,2.69
+"Western Pacific",Palau,2023,3.96
+"Western Pacific",Malaysia,2023,4.06
+Europe,Ireland,2023,4.75
+Europe,"United Kingdom of Great Britain and Northern Ireland",2023,4.93
+Europe,"Republic of Moldova",2023,4.98
+"Eastern Mediterranean","Iran (Islamic Republic of)",2023,5.26
+Europe,Belarus,2023,6.09
+Europe,Austria,2023,6.19
+Americas,Honduras,2023,7.1
+"Eastern Mediterranean",Qatar,2023,7.39
+Europe,"San Marino",2023,7.42
+Americas,Brazil,2023,7.45
+Europe,Georgia,2023,7.74
+"Eastern Mediterranean","Saudi Arabia",2023,7.81
+Europe,Iceland,2023,7.84
+Americas,Colombia,2023,8.68
+Europe,Norway,2023,8.79
+"Eastern Mediterranean","United Arab Emirates",2023,8.85
+Europe,Israel,2023,8.97
+Africa,Burundi,2022,0.01
+Africa,"Central African Republic",2022,0.01
+Africa,Chad,2022,0.01
+Africa,Mali,2022,0.01
+Africa,Niger,2022,0.01
+Africa,Congo,2022,0.02
+Africa,Liberia,2022,0.02
+Africa,"Sierra Leone",2022,0.02
+Africa,Togo,2022,0.02
+Africa,Gambia,2022,0.03
+Africa,Guinea,2022,0.03
+Africa,"South Sudan",2022,0.03
+Africa,Benin,2022,0.04
+Africa,"Democratic Republic of the Congo",2022,0.04
+Africa,"Burkina Faso",2022,0.05
+Africa,Malawi,2022,0.05
+Africa,Angola,2022,0.07
+Africa,Ghana,2022,0.07
+Africa,Madagascar,2022,0.08
+Africa,Guinea-Bissau,2022,0.1
+Africa,Mozambique,2022,0.11
+Africa,Uganda,2022,0.11
+Africa,Cameroon,2022,0.12
+Africa,"United Republic of Tanzania",2022,0.12
+Africa,Senegal,2022,0.13
+Africa,Zimbabwe,2022,0.13
+Africa,"Cote d'Ivoire",2022,0.14
+Africa,"Cabo Verde",2022,0.15
+Africa,Zambia,2022,0.15
+Africa,Gabon,2022,0.18
+"Eastern Mediterranean",Yemen,2022,0.19
+Africa,Eritrea,2022,0.2
+Africa,Rwanda,2022,0.2
+Africa,"South Africa",2022,0.22
+Africa,Nigeria,2022,0.23
+Africa,Kenya,2022,0.25
+Africa,"Sao Tome and Principe",2022,0.27
+Africa,Eswatini,2022,0.28
+Africa,Ethiopia,2022,0.28
+Africa,Mauritania,2022,0.31
+Africa,Lesotho,2022,0.37
+Africa,Comoros,2022,0.38
+Africa,Botswana,2022,0.41
+Europe,Montenegro,2022,0.6
+"South-East Asia",Bangladesh,2022,0.75
+Africa,Namibia,2022,0.78
+"South-East Asia",Bhutan,2022,0.97
+Europe,Turkmenistan,2022,1.24
+"Western Pacific",Indonesia,2022,1.46
+Europe,Kyrgyzstan,2022,1.54
+Americas,"El Salvador",2022,1.55
+Europe,Tajikistan,2022,1.57
+Americas,Belize,2022,1.71
+Europe,Estonia,2022,10.18
+Americas,"Costa Rica",2022,10.89
+Europe,Lithuania,2022,11.02
+Europe,Bulgaria,2022,11.23
+Europe,Romania,2022,11.4
+Europe,Andorra,2022,11.67
+Europe,Portugal,2022,12.05
+Europe,Greece,2022,13.35
+Americas,Paraguay,2022,13.41
+Americas,Chile,2022,15.83
+Americas,Peru,2022,2.11
+Europe,Kazakhstan,2022,2.21
+Europe,Serbia,2022,2.47
+Americas,Uruguay,2022,2.49
+Americas,"Dominican Republic",2022,2.52
+Americas,Panama,2022,2.8
+Africa,Mauritius,2022,3.24
+Europe,Azerbaijan,2022,3.38
+Africa,Seychelles,2022,3.51
+Africa,Algeria,2022,3.57
+Europe,Armenia,2022,3.59
+"Eastern Mediterranean",Oman,2022,3.59
+"Western Pacific",Malaysia,2022,3.87
+Europe,Ireland,2022,4.56
+"Western Pacific",Singapore,2022,4.61
+Europe,"Türkiye",2022,4.87
+Europe,"United Kingdom of Great Britain and Northern Ireland",2022,4.88
+"Eastern Mediterranean",Iraq,2022,5.02
+"Western Pacific","New Zealand",2022,5.09
+Europe,Malta,2022,5.11
+Europe,"Republic of Moldova",2022,5.11
+"Western Pacific",Mongolia,2022,5.41
+"Western Pacific","Republic of Korea",2022,5.41
+Europe,Slovakia,2022,5.43
+"Western Pacific",Palau,2022,5.62
+Europe,"Netherlands (Kingdom of the)",2022,5.67
+Europe,Belarus,2022,5.87
+Americas,"United States of America",2022,6
+Europe,Spain,2022,6.03
+Europe,Austria,2022,6.14
+"Western Pacific",Australia,2022,6.41
+Europe,France,2022,6.94
+Europe,Latvia,2022,7.08
+Europe,"San Marino",2022,7.33
+Europe,Czechia,2022,7.39
+Europe,Hungary,2022,7.43
+"Eastern Mediterranean","Saudi Arabia",2022,7.43
+Europe,Slovenia,2022,7.43
+Europe,Belgium,2022,7.58
+Europe,Georgia,2022,7.62
+Europe,Iceland,2022,7.91
+"Eastern Mediterranean",Jordan,2022,7.94
+"Western Pacific",Japan,2022,8.16
+Europe,Cyprus,2022,8.19
+"Eastern Mediterranean","United Arab Emirates",2022,8.29
+Europe,Germany,2022,8.48
+Europe,Norway,2022,8.78
+Europe,Italy,2022,8.82
+Europe,Israel,2022,9.01
+Europe,Poland,2022,9.09
+Europe,"North Macedonia",2022,9.24
+Europe,Croatia,2022,9.46
+Americas,Argentina,2022,9.68
+Africa,"Central African Republic",2021,0
+Africa,Burundi,2021,0.01
+Africa,Chad,2021,0.01
+Africa,Guinea-Bissau,2021,0.01
+Africa,Liberia,2021,0.01
+Africa,Togo,2021,0.02
+Africa,"Democratic Republic of the Congo",2021,0.03
+Africa,Benin,2021,0.04
+Africa,Gambia,2021,0.04
+Africa,"Burkina Faso",2021,0.05
+Africa,Cameroon,2021,0.05
+"Western Pacific","Papua New Guinea",2021,0.05
+Africa,Senegal,2021,0.1
+Africa,Mozambique,2021,0.11
+Africa,Zambia,2021,0.14
+Africa,"Cote d'Ivoire",2021,0.15
+"Eastern Mediterranean",Yemen,2021,0.17
+Africa,Eritrea,2021,0.18
+Africa,Rwanda,2021,0.21
+Africa,Nigeria,2021,0.22
+Africa,Mauritania,2021,0.26
+Africa,Zimbabwe,2021,0.3
+Africa,Botswana,2021,0.37
+Africa,Namibia,2021,0.57
+Europe,Montenegro,2021,0.6
+"South-East Asia",Bangladesh,2021,0.69
+Americas,Suriname,2021,0.7
+"South-East Asia",Bhutan,2021,0.97
+"South-East Asia","Sri Lanka",2021,1.01
+Africa,"South Africa",2021,1.07
+"South-East Asia",Thailand,2021,1.13
+Americas,Mexico,2021,1.18
+"Western Pacific",Indonesia,2021,1.23
+Europe,Turkmenistan,2021,1.24
+"South-East Asia",Nepal,2021,1.39
+"Eastern Mediterranean",Morocco,2021,1.4
+Europe,Tajikistan,2021,1.65
+Europe,Kyrgyzstan,2021,1.71
+Europe,Estonia,2021,10.11
+"Eastern Mediterranean","Syrian Arab Republic",2021,10.22
+Europe,Lithuania,2021,10.5
+Europe,Romania,2021,10.51
+Americas,"Costa Rica",2021,10.73
+Europe,Bulgaria,2021,10.99
+Europe,Israel,2021,11.56
+Europe,Andorra,2021,11.61
+Europe,Portugal,2021,11.7
+Americas,Argentina,2021,11.88
+Americas,Paraguay,2021,12.84
+Europe,Greece,2021,13.01
+Americas,Chile,2021,14.83
+Americas,Peru,2021,2.18
+Americas,"Dominican Republic",2021,2.21
+Americas,Uruguay,2021,2.26
+Americas,"Bolivia (Plurinational State of)",2021,2.29
+Europe,Kazakhstan,2021,2.3
+"Western Pacific","Brunei Darussalam",2021,2.35
+Europe,Serbia,2021,2.45
+"Western Pacific",Philippines,2021,2.51
+Americas,Panama,2021,2.88
+Europe,Armenia,2021,2.93
+Europe,Azerbaijan,2021,3.22
+"Eastern Mediterranean",Oman,2021,3.61
+"Western Pacific",Malaysia,2021,3.67
+"Eastern Mediterranean",Tunisia,2021,3.68
+"Western Pacific",Palau,2021,3.93
+"Eastern Mediterranean",Iraq,2021,4.36
+"Western Pacific",Singapore,2021,4.48
+Europe,"Türkiye",2021,4.6
+Europe,Ireland,2021,4.63
+"Western Pacific",Mongolia,2021,4.86
+"Western Pacific","New Zealand",2021,5.07
+Europe,"Republic of Moldova",2021,5.09
+Europe,"United Kingdom of Great Britain and Northern Ireland",2021,5.12
+Europe,Malta,2021,5.15
+Europe,Slovakia,2021,5.28
+"Western Pacific","Republic of Korea",2021,5.3
+Europe,"Netherlands (Kingdom of the)",2021,5.74
+Europe,Belarus,2021,5.79
+Americas,"United States of America",2021,6
+Europe,Austria,2021,6.16
+"Western Pacific",Australia,2021,6.2
+Europe,Georgia,2021,6.5
+Europe,France,2021,6.79
+Americas,Brazil,2021,6.83
+Europe,Hungary,2021,7.1
+Europe,Latvia,2021,7.15
+Europe,Denmark,2021,7.18
+"Eastern Mediterranean","Saudi Arabia",2021,7.26
+Europe,Slovenia,2021,7.46
+Europe,Czechia,2021,7.56
+Europe,Cyprus,2021,7.58
+"Eastern Mediterranean","United Arab Emirates",2021,7.64
+Europe,Belgium,2021,7.71
+Europe,Sweden,2021,7.74
+Europe,Iceland,2021,7.89
+Americas,Colombia,2021,8.32
+Europe,Italy,2021,8.32
+Europe,Spain,2021,8.47
+Europe,Germany,2021,8.52
+Americas,"El Salvador",2021,8.55
+Europe,Poland,2021,9.17
+Europe,Croatia,2021,9.25
+Europe,Norway,2021,9.28
+Europe,Finland,2021,9.68
+Africa,Burundi,2020,0.01
+Africa,Liberia,2020,0.01
+Africa,"Sierra Leone",2020,0.02
+"South-East Asia",Timor-Leste,2020,0.02
+Africa,Gambia,2020,0.03
+Africa,Guinea-Bissau,2020,0.03
+Africa,"South Sudan",2020,0.03
+Africa,"Burkina Faso",2020,0.05
+Africa,Kenya,2020,0.05
+"Eastern Mediterranean",Afghanistan,2020,0.06
+Africa,Uganda,2020,0.06
+Africa,Cameroon,2020,0.07
+Africa,Malawi,2020,0.08
+Africa,Senegal,2020,0.08
+Africa,Mozambique,2020,0.09
+Africa,Zambia,2020,0.11
+Africa,"Cote d'Ivoire",2020,0.14
+Africa,Gabon,2020,0.15
+Africa,Ethiopia,2020,0.16
+Africa,Rwanda,2020,0.16
+Africa,Eswatini,2020,0.18
+"Eastern Mediterranean",Yemen,2020,0.18
+Africa,Nigeria,2020,0.22
+Africa,Mauritania,2020,0.25
+Africa,Zimbabwe,2020,0.3
+Africa,Botswana,2020,0.38
+Africa,Comoros,2020,0.4
+Europe,Montenegro,2020,0.51
+Africa,Namibia,2020,0.51
+"South-East Asia",Bangladesh,2020,0.68
+Americas,Guyana,2020,0.68
+"Western Pacific","Lao People's Democratic Republic",2020,0.76
+"Eastern Mediterranean",Bahrain,2020,0.8
+"Western Pacific",Samoa,2020,0.9
+"South-East Asia",Bhutan,2020,0.92
+"Western Pacific",Tuvalu,2020,0.96
+"South-East Asia",Maldives,2020,1.02
+"South-East Asia","Sri Lanka",2020,1.02
+"South-East Asia",Thailand,2020,1.06
+Europe,Uzbekistan,2020,1.1
+Americas,Mexico,2020,1.15
+"Western Pacific",Indonesia,2020,1.18
+Europe,Turkmenistan,2020,1.23
+"South-East Asia",Nepal,2020,1.27
+"Western Pacific",Tonga,2020,1.42
+"South-East Asia",India,2020,1.59
+Americas,"Bolivia (Plurinational State of)",2020,1.61
+Europe,Tajikistan,2020,1.69
+Europe,Kyrgyzstan,2020,1.74
+Europe,Estonia,2020,10.15
+Europe,Bulgaria,2020,10.63
+Americas,"Costa Rica",2020,10.64
+Europe,Lithuania,2020,11.09
+Europe,Portugal,2020,11.25
+Europe,Andorra,2020,11.63
+Americas,Argentina,2020,11.74
+"Eastern Mediterranean",Lebanon,2020,12.5
+Europe,Greece,2020,12.78
+Americas,Chile,2020,13.78
+Americas,Colombia,2020,16.47
+Americas,Cuba,2020,18.42
+Americas,"Dominican Republic",2020,2.02
+Americas,Peru,2020,2.02
+Europe,Kazakhstan,2020,2.34
+Europe,Serbia,2020,2.4
+"Eastern Mediterranean",Sudan,2020,2.5
+"Western Pacific",Philippines,2020,2.53
+Americas,Guatemala,2020,2.59
+Europe,"Russian Federation",2020,2.79
+Americas,Panama,2020,2.8
+Europe,Azerbaijan,2020,3.18
+"Eastern Mediterranean",Oman,2020,3.3
+"Eastern Mediterranean",Iraq,2020,3.33
+"Western Pacific",Palau,2020,3.37
+"Western Pacific",Malaysia,2020,3.42
+Europe,Armenia,2020,3.59
+Europe,"Türkiye",2020,4.05
+"Western Pacific",Singapore,2020,4.42
+"Western Pacific",Mongolia,2020,4.7
+"Western Pacific","New Zealand",2020,4.86
+Europe,Malta,2020,5.19
+"Western Pacific","Republic of Korea",2020,5.2
+Europe,Slovakia,2020,5.29
+Europe,Georgia,2020,5.35
+Europe,"Republic of Moldova",2020,5.38
+Europe,"United Kingdom of Great Britain and Northern Ireland",2020,5.4
+Europe,"Netherlands (Kingdom of the)",2020,5.64
+"Eastern Mediterranean",Libya,2020,5.8
+Europe,Belarus,2020,5.85
+Americas,"United States of America",2020,5.96
+"Western Pacific",Australia,2020,6.09
+Europe,Austria,2020,6.11
+"Eastern Mediterranean","Saudi Arabia",2020,6.33
+Americas,Canada,2020,6.53
+Europe,Ireland,2020,6.61
+Europe,France,2020,6.66
+Europe,Hungary,2020,6.75
+Europe,Denmark,2020,7.14
+Europe,Latvia,2020,7.16
+Europe,Cyprus,2020,7.26
+"Eastern Mediterranean","United Arab Emirates",2020,7.26
+Europe,Slovenia,2020,7.47
+Europe,Czechia,2020,7.5
+Europe,Belgium,2020,7.69
+Europe,Sweden,2020,7.71
+Europe,Iceland,2020,7.91
+"Eastern Mediterranean",Kuwait,2020,8.1
+"Western Pacific",Japan,2020,8.25
+Europe,Spain,2020,8.34
+Europe,Germany,2020,8.5
+Europe,Italy,2020,8.63
+Europe,"North Macedonia",2020,8.77
+"Eastern Mediterranean","Syrian Arab Republic",2020,8.82
+Europe,Poland,2020,8.85
+Europe,Croatia,2020,8.92
+Europe,Israel,2020,9.09
+Europe,Norway,2020,9.12
+Europe,Monaco,2020,9.19
+Europe,Romania,2020,9.63
+Europe,Finland,2020,9.75
+Africa,Liberia,2019,0.01
+Africa,"Sierra Leone",2019,0.01
+Africa,"South Sudan",2019,0.02
+Africa,"Burkina Faso",2019,0.03
+Africa,"Democratic Republic of the Congo",2019,0.05
+Africa,Gambia,2019,0.05
+"Eastern Mediterranean",Afghanistan,2019,0.07
+"Western Pacific","Papua New Guinea",2019,0.07
+Africa,Uganda,2019,0.07
+"South-East Asia",Timor-Leste,2019,0.08
+Africa,"Cote d'Ivoire",2019,0.1
+Africa,Mozambique,2019,0.1
+Africa,Zambia,2019,0.1
+Africa,Cameroon,2019,0.12
+Africa,Eswatini,2019,0.12
+Africa,Ethiopia,2019,0.13
+Africa,Senegal,2019,0.13
+Africa,Gabon,2019,0.15
+Africa,Lesotho,2019,0.17
+Africa,Rwanda,2019,0.19
+Africa,Nigeria,2019,0.22
+Africa,Kenya,2019,0.25
+Africa,Mauritania,2019,0.26
+Africa,"Sao Tome and Principe",2019,0.28
+"Western Pacific",Vanuatu,2019,0.31
+Africa,Zimbabwe,2019,0.31
+Africa,Botswana,2019,0.38
+Africa,Namibia,2019,0.44
+Europe,Montenegro,2019,0.52
+Americas,Suriname,2019,0.55
+"South-East Asia",Bangladesh,2019,0.58
+"Western Pacific",Indonesia,2019,0.58
+Americas,Guyana,2019,0.67
+"Western Pacific","Solomon Islands",2019,0.69
+"South-East Asia",Myanmar,2019,0.72
+"Eastern Mediterranean",Bahrain,2019,0.74
+"South-East Asia",Bhutan,2019,0.9
+"Western Pacific",Samoa,2019,1
+"South-East Asia","Sri Lanka",2019,1.03
+Africa,"South Africa",2019,1.07
+"South-East Asia",Maldives,2019,1.13
+"South-East Asia",Nepal,2019,1.13
+"South-East Asia",Thailand,2019,1.13
+"Eastern Mediterranean",Pakistan,2019,1.16
+"Western Pacific",Fiji,2019,1.17
+Europe,Turkmenistan,2019,1.19
+Americas,Mexico,2019,1.34
+Americas,Belize,2019,1.4
+"Western Pacific","Marshall Islands",2019,1.59
+Europe,Tajikistan,2019,1.6
+"Western Pacific",Tonga,2019,1.61
+Africa,Algeria,2019,1.62
+Europe,Kyrgyzstan,2019,1.76
+Americas,Peru,2019,1.96
+Americas,"Costa Rica",2019,10.54
+Europe,Lithuania,2019,10.54
+Europe,Bulgaria,2019,10.66
+Europe,Portugal,2019,10.86
+Europe,Andorra,2019,10.98
+Americas,Argentina,2019,11.72
+Europe,Greece,2019,12.56
+Americas,Chile,2019,12.84
+Americas,Colombia,2019,16.21
+Americas,Cuba,2019,17.7
+Americas,"Bolivia (Plurinational State of)",2019,2.05
+"Western Pacific",Palau,2019,2.25
+Americas,"Dominican Republic",2019,2.28
+Africa,"Cabo Verde",2019,2.33
+Europe,Kazakhstan,2019,2.34
+"Western Pacific","Brunei Darussalam",2019,2.49
+"Western Pacific",Philippines,2019,2.51
+Europe,"Bosnia and Herzegovina",2019,2.58
+Europe,"Russian Federation",2019,2.81
+Americas,"Trinidad and Tobago",2019,2.99
+Americas,Panama,2019,3.03
+Europe,Azerbaijan,2019,3.1
+Africa,Mauritius,2019,3.2
+"Western Pacific",Malaysia,2019,3.23
+"Eastern Mediterranean",Oman,2019,3.25
+"Western Pacific",Nauru,2019,3.45
+"Eastern Mediterranean",Iraq,2019,3.47
+Africa,Seychelles,2019,3.57
+"Western Pacific","Cook Islands",2019,3.73
+Europe,"Türkiye",2019,3.86
+Europe,Armenia,2019,4.06
+Europe,Switzerland,2019,4.06
+"Western Pacific",Mongolia,2019,4.43
+"Eastern Mediterranean",Kuwait,2019,4.85
+Europe,Malta,2019,5.02
+"Western Pacific","Republic of Korea",2019,5.12
+Europe,Slovakia,2019,5.23
+Europe,"United Kingdom of Great Britain and Northern Ireland",2019,5.3
+Europe,"Republic of Moldova",2019,5.41
+Europe,"Netherlands (Kingdom of the)",2019,5.59
+Europe,Belarus,2019,5.72
+Americas,"United States of America",2019,5.96
+Europe,Austria,2019,6.06
+"Western Pacific",Australia,2019,6.09
+"Eastern Mediterranean","Saudi Arabia",2019,6.17
+"Western Pacific","New Zealand",2019,6.22
+"Eastern Mediterranean",Qatar,2019,6.22
+Americas,Canada,2019,6.57
+Europe,France,2019,6.64
+Europe,Ireland,2019,6.78
+"Eastern Mediterranean","United Arab Emirates",2019,7.01
+Europe,Latvia,2019,7.13
+Europe,Denmark,2019,7.21
+Europe,Slovenia,2019,7.27
+Europe,Hungary,2019,7.31
+Europe,Czechia,2019,7.41
+"Eastern Mediterranean",Jordan,2019,7.42
+Europe,Belgium,2019,7.57
+Europe,Sweden,2019,7.78
+Europe,Cyprus,2019,7.85
+Europe,Iceland,2019,7.9
+Europe,Georgia,2019,8.11
+Europe,Spain,2019,8.18
+Europe,Germany,2019,8.5
+Europe,Italy,2019,8.64
+Europe,Israel,2019,8.66
+Europe,Poland,2019,8.8
+Europe,Romania,2019,8.8
+Europe,Croatia,2019,8.88
+Europe,Norway,2019,9.06
+"Eastern Mediterranean","Syrian Arab Republic",2019,9.18
+Europe,Monaco,2019,9.45
+Europe,"North Macedonia",2019,9.47
+Europe,Finland,2019,9.78
+Europe,Estonia,2019,9.82
+Africa,Chad,2018,0
+Africa,Benin,2018,0.01
+Africa,Burundi,2018,0.01
+Africa,Liberia,2018,0.01
+Africa,Niger,2018,0.01
+Africa,Uganda,2018,0.01
+Africa,"Central African Republic",2018,0.02
+Africa,Gambia,2018,0.02
+Africa,Mali,2018,0.02
+Africa,"Sierra Leone",2018,0.02
+Africa,"South Sudan",2018,0.03
+Africa,Togo,2018,0.03
+"Eastern Mediterranean",Afghanistan,2018,0.05
+Africa,"Burkina Faso",2018,0.05
+Africa,Congo,2018,0.05
+Africa,"Democratic Republic of the Congo",2018,0.05
+Africa,Guinea,2018,0.06
+Africa,Malawi,2018,0.06
+"South-East Asia",Timor-Leste,2018,0.06
+Africa,Zimbabwe,2018,0.07
+Africa,Madagascar,2018,0.08
+Africa,Mozambique,2018,0.09
+Africa,Zambia,2018,0.09
+Africa,Eswatini,2018,0.12
+Africa,"United Republic of Tanzania",2018,0.12
+"Western Pacific","Papua New Guinea",2018,0.15
+Africa,Ethiopia,2018,0.17
+Africa,Kenya,2018,0.17
+Africa,"Cote d'Ivoire",2018,0.18
+Africa,Gabon,2018,0.18
+Africa,Rwanda,2018,0.18
+Africa,Nigeria,2018,0.21
+Americas,Haiti,2018,0.22
+Africa,Ghana,2018,0.23
+Africa,Mauritania,2018,0.26
+"Western Pacific",Vanuatu,2018,0.28
+"Western Pacific",Cambodia,2018,0.31
+Africa,Namibia,2018,0.34
+Americas,Nicaragua,2018,0.41
+Africa,Botswana,2018,0.42
+Africa,Comoros,2018,0.42
+Europe,Montenegro,2018,0.47
+Africa,Angola,2018,0.53
+"South-East Asia",Maldives,2018,0.53
+"Western Pacific",Indonesia,2018,0.57
+Africa,Eritrea,2018,0.58
+"South-East Asia",Bangladesh,2018,0.59
+"Western Pacific","Lao People's Democratic Republic",2018,0.62
+"South-East Asia","Sri Lanka",2018,0.62
+"South-East Asia",Myanmar,2018,0.67
+Americas,Suriname,2018,0.67
+Africa,Lesotho,2018,0.73
+"South-East Asia",Bhutan,2018,0.79
+"Eastern Mediterranean",Bahrain,2018,0.81
+"Eastern Mediterranean",Pakistan,2018,0.9
+"South-East Asia",Nepal,2018,0.97
+"South-East Asia",Thailand,2018,1.08
+Africa,"South Africa",2018,1.1
+Europe,Turkmenistan,2018,1.16
+Americas,Dominica,2018,1.17
+Americas,Guyana,2018,1.18
+Americas,Mexico,2018,1.21
+Americas,Belize,2018,1.5
+Africa,"Cabo Verde",2018,1.58
+"South-East Asia",India,2018,1.59
+Europe,Tajikistan,2018,1.65
+Americas,Paraguay,2018,1.76
+Europe,Kyrgyzstan,2018,1.84
+"Eastern Mediterranean",Egypt,2018,1.87
+Americas,Grenada,2018,1.9
+Americas,Peru,2018,1.93
+Europe,Albania,2018,10.27
+Europe,Lithuania,2018,10.32
+Americas,"Costa Rica",2018,10.34
+Europe,Bulgaria,2018,10.37
+Europe,Andorra,2018,10.51
+Europe,Portugal,2018,10.55
+Americas,Argentina,2018,11.61
+"Eastern Mediterranean",Lebanon,2018,11.7
+Europe,Greece,2018,12.39
+Americas,Chile,2018,12.44
+Americas,Colombia,2018,15.92
+Americas,Cuba,2018,16.84
+Europe,"San Marino",2018,17.39
+Americas,"Dominican Republic",2018,2.21
+"Western Pacific",Palau,2018,2.25
+"Western Pacific",Philippines,2018,2.44
+Europe,"Bosnia and Herzegovina",2018,2.46
+Europe,Kazakhstan,2018,2.49
+Americas,"Saint Kitts and Nevis",2018,2.55
+"Western Pacific","Brunei Darussalam",2018,2.58
+Europe,Serbia,2018,2.75
+Europe,"Russian Federation",2018,2.82
+"Western Pacific",Malaysia,2018,2.95
+Americas,Panama,2018,2.96
+Europe,Azerbaijan,2018,3
+"Eastern Mediterranean",Oman,2018,3.13
+Americas,"Trinidad and Tobago",2018,3.21
+Europe,Poland,2018,3.38
+Africa,Algeria,2018,3.63
+Europe,"Türkiye",2018,3.63
+Europe,Armenia,2018,3.97
+"Western Pacific",Mongolia,2018,4.09
+"Western Pacific",Singapore,2018,4.19
+"Eastern Mediterranean","Iran (Islamic Republic of)",2018,4.25
+"Eastern Mediterranean",Kuwait,2018,4.72
+Europe,Malta,2018,4.79
+"Western Pacific","Republic of Korea",2018,4.99
+Europe,Switzerland,2018,5.09
+Europe,Slovakia,2018,5.11
+Europe,"United Kingdom of Great Britain and Northern Ireland",2018,5.24
+Europe,"Republic of Moldova",2018,5.44
+Europe,"Netherlands (Kingdom of the)",2018,5.5
+"Eastern Mediterranean","Saudi Arabia",2018,5.52
+Europe,Belarus,2018,5.73
+Europe,Austria,2018,5.94
+Americas,"United States of America",2018,5.95
+"Western Pacific",Australia,2018,5.96
+"Western Pacific","New Zealand",2018,6.13
+"Eastern Mediterranean",Qatar,2018,6.31
+Americas,Brazil,2018,6.5
+Europe,France,2018,6.55
+Americas,Canada,2018,6.57
+Europe,Ireland,2018,6.6
+"Eastern Mediterranean","United Arab Emirates",2018,6.71
+"Eastern Mediterranean",Jordan,2018,6.79
+Europe,Hungary,2018,7.03
+Europe,Latvia,2018,7.06
+Europe,Finland,2018,7.17
+Europe,Denmark,2018,7.19
+Europe,Slovenia,2018,7.21
+Europe,Czechia,2018,7.44
+Europe,Belgium,2018,7.54
+Europe,Cyprus,2018,7.68
+Europe,Israel,2018,7.99
+"Western Pacific",Japan,2018,8.02
+Europe,Spain,2018,8.02
+Europe,Georgia,2018,8.04
+Europe,Sweden,2018,8.07
+Europe,Iceland,2018,8.19
+Europe,Romania,2018,8.3
+Europe,Italy,2018,8.35
+Europe,Germany,2018,8.53
+Europe,Croatia,2018,8.62
+"Eastern Mediterranean","Syrian Arab Republic",2018,8.72
+Europe,Norway,2018,8.74
+Americas,"El Salvador",2018,8.98
+Europe,Monaco,2018,9.16
+Europe,Estonia,2018,9.66
+Europe,"North Macedonia",2018,9.69
+Africa,"Burkina Faso",2017,0.04
+Africa,Togo,2017,0.07
+Africa,Zimbabwe,2017,0.07
+Africa,Mozambique,2017,0.08
+Africa,Senegal,2017,0.08
+Africa,Gabon,2017,0.17
+Africa,Nigeria,2017,0.21
+"Western Pacific",Cambodia,2017,0.31
+Americas,Honduras,2017,0.32
+Europe,Montenegro,2017,0.47
+"South-East Asia",Bangladesh,2017,0.5
+"Western Pacific",Indonesia,2017,0.54
+"South-East Asia","Sri Lanka",2017,0.67
+"Western Pacific","Lao People's Democratic Republic",2017,0.7
+"South-East Asia",Maldives,2017,0.72
+Americas,Dominica,2017,0.73
+"South-East Asia",Bhutan,2017,0.78
+"South-East Asia",Myanmar,2017,0.83
+"Eastern Mediterranean",Bahrain,2017,0.84
+"Eastern Mediterranean",Pakistan,2017,0.92
+Americas,Jamaica,2017,0.93
+Africa,"South Africa",2017,1.1
+Europe,Turkmenistan,2017,1.13
+Americas,"Venezuela (Bolivarian Republic of)",2017,1.35
+"Eastern Mediterranean",Morocco,2017,1.37
+Americas,Mexico,2017,1.38
+Americas,Grenada,2017,1.47
+Americas,Belize,2017,1.55
+"South-East Asia",Thailand,2017,1.63
+Europe,Tajikistan,2017,1.69
+Americas,"Saint Lucia",2017,1.76
+Americas,"Bolivia (Plurinational State of)",2017,1.78
+Europe,Kyrgyzstan,2017,1.81
+"Eastern Mediterranean",Egypt,2017,1.84
+"South-East Asia",India,2017,1.85
+Americas,"Costa Rica",2017,10.03
+Europe,Lithuania,2017,10.03
+Europe,Portugal,2017,10.08
+Europe,Andorra,2017,10.57
+Europe,Bulgaria,2017,10.61
+"Eastern Mediterranean",Lebanon,2017,10.92
+Americas,Argentina,2017,11.54
+Americas,Chile,2017,11.8
+Europe,Greece,2017,12.33
+Americas,Brazil,2017,12.65
+Americas,Uruguay,2017,14.71
+Americas,Colombia,2017,15.42
+Americas,Cuba,2017,16.6
+Americas,"Dominican Republic",2017,2.12
+"South-East Asia","Democratic People's Republic of Korea",2017,2.17
+"South-East Asia",Nepal,2017,2.17
+"Western Pacific",Philippines,2017,2.36
+"Eastern Mediterranean",Iraq,2017,2.42
+Europe,"Bosnia and Herzegovina",2017,2.48
+Europe,Kazakhstan,2017,2.5
+Americas,Bahamas,2017,2.54
+"Western Pacific",Malaysia,2017,2.66
+Europe,Serbia,2017,2.73
+Europe,"Russian Federation",2017,2.82
+Europe,Azerbaijan,2017,2.9
+"Eastern Mediterranean",Oman,2017,2.98
+Americas,Ecuador,2017,3
+Americas,Panama,2017,3.04
+"Eastern Mediterranean","Iran (Islamic Republic of)",2017,3.1
+Africa,Mauritius,2017,3.11
+Americas,Barbados,2017,3.14
+Europe,"Türkiye",2017,3.36
+Africa,Algeria,2017,3.42
+Americas,"Trinidad and Tobago",2017,3.42
+Europe,Poland,2017,3.49
+Europe,Armenia,2017,3.6
+"Western Pacific",China,2017,4.51
+"Eastern Mediterranean",Kuwait,2017,4.68
+Europe,Malta,2017,4.77
+"Western Pacific","Republic of Korea",2017,4.91
+Europe,Slovakia,2017,5.01
+"Eastern Mediterranean","Saudi Arabia",2017,5.1
+Europe,Switzerland,2017,5.16
+Europe,"United Kingdom of Great Britain and Northern Ireland",2017,5.24
+Europe,"Republic of Moldova",2017,5.35
+Europe,"Netherlands (Kingdom of the)",2017,5.45
+Europe,Belarus,2017,5.77
+"Western Pacific",Australia,2017,5.91
+Europe,Austria,2017,5.95
+Americas,"United States of America",2017,5.98
+"Eastern Mediterranean","United Arab Emirates",2017,6.08
+"Western Pacific","New Zealand",2017,6.1
+Americas,Canada,2017,6.34
+Europe,Ireland,2017,6.47
+Europe,Georgia,2017,6.51
+Europe,France,2017,6.57
+Europe,Hungary,2017,6.73
+"Eastern Mediterranean",Jordan,2017,6.94
+Europe,Slovenia,2017,7.06
+Europe,Latvia,2017,7.1
+Europe,Finland,2017,7.18
+Europe,Israel,2017,7.18
+Europe,Denmark,2017,7.19
+Europe,Belgium,2017,7.49
+Europe,Cyprus,2017,7.49
+Europe,Czechia,2017,7.51
+Europe,Spain,2017,7.83
+Europe,Romania,2017,7.87
+Europe,Iceland,2017,8.12
+Europe,Sweden,2017,8.13
+Europe,Italy,2017,8.21
+Europe,Croatia,2017,8.42
+"Eastern Mediterranean","Syrian Arab Republic",2017,8.45
+Europe,Germany,2017,8.51
+"Eastern Mediterranean",Libya,2017,8.57
+Europe,Norway,2017,8.98
+Europe,"North Macedonia",2017,9.33
+Europe,Estonia,2017,9.6
+Europe,Luxembourg,2017,9.74
+Africa,Benin,2016,0.01
+Africa,Niger,2016,0.01
+Africa,"Democratic Republic of the Congo",2016,0.02
+"Eastern Mediterranean",Afghanistan,2016,0.04
+Africa,Cameroon,2016,0.04
+Africa,Guinea,2016,0.04
+Africa,Guinea-Bissau,2016,0.04
+Africa,Congo,2016,0.05
+Africa,Mali,2016,0.06
+Africa,"Sierra Leone",2016,0.07
+Africa,"Cabo Verde",2016,0.08
+Africa,Senegal,2016,0.08
+"South-East Asia",Timor-Leste,2016,0.08
+Africa,Zimbabwe,2016,0.09
+Africa,Ghana,2016,0.14
+Americas,Jamaica,2016,0.16
+Africa,Zambia,2016,0.18
+"South-East Asia",Maldives,2016,0.2
+Africa,Nigeria,2016,0.2
+"Western Pacific",Cambodia,2016,0.3
+Africa,Botswana,2016,0.41
+"South-East Asia",Bangladesh,2016,0.44
+"Western Pacific","Solomon Islands",2016,0.44
+Europe,Montenegro,2016,0.48
+"South-East Asia","Sri Lanka",2016,0.66
+"Western Pacific",Kiribati,2016,0.68
+"South-East Asia",Myanmar,2016,0.68
+"Eastern Mediterranean",Pakistan,2016,0.83
+"Eastern Mediterranean",Bahrain,2016,0.94
+Europe,Turkmenistan,2016,1.07
+Africa,"South Africa",2016,1.08
+Americas,Mexico,2016,1.37
+"Western Pacific",Samoa,2016,1.43
+Americas,"El Salvador",2016,1.46
+"South-East Asia",India,2016,1.47
+Europe,Tajikistan,2016,1.53
+"South-East Asia",Thailand,2016,1.58
+"Eastern Mediterranean",Egypt,2016,1.73
+Europe,Kyrgyzstan,2016,1.76
+Americas,Peru,2016,1.85
+Europe,Andorra,2016,10.25
+Europe,Bulgaria,2016,10.4
+"Eastern Mediterranean",Lebanon,2016,10.43
+Americas,Chile,2016,10.47
+Americas,Argentina,2016,11.37
+Europe,Greece,2016,12.27
+Americas,Uruguay,2016,12.36
+Americas,Colombia,2016,14.91
+Americas,Cuba,2016,14.96
+"Eastern Mediterranean",Iraq,2016,2.01
+Americas,"Bolivia (Plurinational State of)",2016,2.17
+"Western Pacific",Malaysia,2016,2.26
+"Western Pacific",Philippines,2016,2.3
+"Western Pacific",Mongolia,2016,2.35
+Europe,"Bosnia and Herzegovina",2016,2.42
+Americas,Panama,2016,2.78
+Europe,Serbia,2016,2.79
+Europe,Azerbaijan,2016,2.8
+"Eastern Mediterranean",Oman,2016,2.81
+Europe,"Russian Federation",2016,2.85
+Africa,Mauritius,2016,2.98
+"Eastern Mediterranean",Tunisia,2016,3
+Europe,Kazakhstan,2016,3.01
+Africa,Seychelles,2016,3.1
+Americas,Ecuador,2016,3.18
+Europe,"Türkiye",2016,3.27
+Europe,Poland,2016,3.48
+Europe,Armenia,2016,3.67
+"Western Pacific",Singapore,2016,3.94
+"Eastern Mediterranean","Saudi Arabia",2016,4.54
+"Eastern Mediterranean",Kuwait,2016,4.64
+Europe,Malta,2016,4.7
+"Western Pacific","Republic of Korea",2016,4.71
+Europe,Slovakia,2016,4.98
+Europe,Switzerland,2016,5.04
+Europe,"Netherlands (Kingdom of the)",2016,5.06
+Europe,"United Kingdom of Great Britain and Northern Ireland",2016,5.29
+Europe,"Republic of Moldova",2016,5.3
+"Eastern Mediterranean","United Arab Emirates",2016,5.72
+"Western Pacific",Australia,2016,5.84
+Europe,Austria,2016,5.89
+Europe,Belarus,2016,5.93
+Americas,"United States of America",2016,5.97
+"Western Pacific","New Zealand",2016,6.11
+Europe,Hungary,2016,6.2
+Europe,Ireland,2016,6.2
+Americas,Canada,2016,6.34
+"Eastern Mediterranean","Syrian Arab Republic",2016,6.53
+Europe,France,2016,6.58
+"Eastern Mediterranean",Jordan,2016,6.71
+Europe,Georgia,2016,6.77
+Europe,Slovenia,2016,6.89
+Europe,Cyprus,2016,7.13
+Europe,Latvia,2016,7.2
+Europe,Finland,2016,7.27
+Europe,Denmark,2016,7.42
+Europe,Belgium,2016,7.48
+Europe,Spain,2016,7.64
+Europe,Israel,2016,7.96
+"Western Pacific",Japan,2016,7.99
+Europe,Italy,2016,8.03
+Europe,Croatia,2016,8.08
+Europe,Sweden,2016,8.14
+Europe,Romania,2016,8.23
+Europe,Iceland,2016,8.28
+"Eastern Mediterranean",Qatar,2016,8.29
+Europe,Germany,2016,8.52
+Europe,Norway,2016,8.92
+Europe,"North Macedonia",2016,9.21
+Europe,Luxembourg,2016,9.43
+Europe,Portugal,2016,9.54
+Europe,Estonia,2016,9.55
+Americas,"Costa Rica",2016,9.69
+Europe,Lithuania,2016,9.71
+Africa,Niger,2015,0.02
+Africa,Togo,2015,0.02
+"Eastern Mediterranean",Afghanistan,2015,0.04
+Africa,Zimbabwe,2015,0.05
+Americas,Haiti,2015,0.06
+Africa,Mozambique,2015,0.07
+Africa,Uganda,2015,0.07
+Africa,Gambia,2015,0.08
+Africa,Rwanda,2015,0.11
+Americas,Jamaica,2015,0.13
+"Western Pacific",Cambodia,2015,0.16
+Africa,Nigeria,2015,0.2
+"South-East Asia",Bangladesh,2015,0.41
+Europe,Montenegro,2015,0.43
+"Western Pacific",Indonesia,2015,0.49
+"South-East Asia","Sri Lanka",2015,0.63
+"South-East Asia",Myanmar,2015,0.64
+"Western Pacific",Fiji,2015,0.7
+"Eastern Mediterranean",Pakistan,2015,0.77
+"Eastern Mediterranean",Bahrain,2015,0.98
+Europe,Turkmenistan,2015,1.03
+Africa,"South Africa",2015,1.06
+Americas,Mexico,2015,1.31
+"Eastern Mediterranean",Morocco,2015,1.41
+"South-East Asia",Maldives,2015,1.45
+Europe,Tajikistan,2015,1.56
+"Eastern Mediterranean",Egypt,2015,1.7
+Europe,Kyrgyzstan,2015,1.7
+"Western Pacific",Nauru,2015,1.82
+"Eastern Mediterranean",Iraq,2015,1.94
+Americas,Chile,2015,10
+Europe,Bulgaria,2015,10.03
+Americas,Argentina,2015,11.19
+Europe,Greece,2015,12.29
+Americas,Colombia,2015,14.41
+Americas,Cuba,2015,15.56
+"Eastern Mediterranean",Sudan,2015,2.03
+"Western Pacific",Malaysia,2015,2.04
+"Western Pacific","Brunei Darussalam",2015,2.23
+"Western Pacific",Philippines,2015,2.26
+Europe,"Bosnia and Herzegovina",2015,2.34
+Europe,Kazakhstan,2015,2.61
+Europe,Azerbaijan,2015,2.71
+"Eastern Mediterranean",Oman,2015,2.75
+Europe,"Russian Federation",2015,2.81
+Africa,Mauritius,2015,2.94
+Americas,Panama,2015,3
+"Eastern Mediterranean",Tunisia,2015,3.06
+Europe,"Türkiye",2015,3.1
+Europe,Serbia,2015,3.11
+"Eastern Mediterranean","Iran (Islamic Republic of)",2015,3.17
+Europe,Poland,2015,3.29
+Americas,"Trinidad and Tobago",2015,3.42
+Europe,Armenia,2015,3.7
+Americas,"Saint Kitts and Nevis",2015,4.25
+"Eastern Mediterranean","Saudi Arabia",2015,4.5
+"Western Pacific","Republic of Korea",2015,4.62
+Europe,Malta,2015,4.63
+Europe,Slovakia,2015,4.88
+Europe,Switzerland,2015,5.07
+Europe,"Netherlands (Kingdom of the)",2015,5.1
+Americas,Ecuador,2015,5.27
+Europe,"United Kingdom of Great Britain and Northern Ireland",2015,5.3
+Europe,"Republic of Moldova",2015,5.41
+"Eastern Mediterranean","United Arab Emirates",2015,5.67
+"Western Pacific",Australia,2015,5.78
+Europe,Belarus,2015,5.89
+Europe,Austria,2015,5.94
+Americas,"United States of America",2015,6
+Europe,Ireland,2015,6.01
+Europe,Hungary,2015,6.03
+"Western Pacific","New Zealand",2015,6.12
+Americas,Canada,2015,6.24
+Europe,Georgia,2015,6.51
+Europe,France,2015,6.53
+"Eastern Mediterranean",Kuwait,2015,6.75
+Europe,Slovenia,2015,6.76
+"Eastern Mediterranean",Jordan,2015,7.13
+Europe,Latvia,2015,7.17
+Europe,Cyprus,2015,7.18
+Europe,Finland,2015,7.31
+Europe,Belgium,2015,7.35
+Europe,Spain,2015,7.42
+Europe,Denmark,2015,7.61
+"Eastern Mediterranean",Libya,2015,7.64
+Europe,Romania,2015,7.74
+Europe,Italy,2015,7.86
+Europe,Croatia,2015,8
+Europe,Czechia,2015,8.04
+Europe,Sweden,2015,8.16
+Europe,Israel,2015,8.24
+Europe,Iceland,2015,8.4
+Europe,Germany,2015,8.54
+"Eastern Mediterranean",Lebanon,2015,8.54
+Europe,Norway,2015,8.82
+Europe,Luxembourg,2015,8.89
+Europe,Lithuania,2015,9.1
+Europe,Portugal,2015,9.13
+Europe,"North Macedonia",2015,9.21
+Americas,"Costa Rica",2015,9.37
+Europe,Estonia,2015,9.43
+Europe,Andorra,2015,9.97
+"Eastern Mediterranean",Somalia,2014,0
+Africa,Niger,2014,0.01
+Africa,"United Republic of Tanzania",2014,0.02
+"Eastern Mediterranean",Afghanistan,2014,0.03
+Africa,Zimbabwe,2014,0.08
+Americas,Jamaica,2014,0.13
+"Western Pacific",Cambodia,2014,0.16
+"Eastern Mediterranean",Yemen,2014,0.18
+"Eastern Mediterranean",Djibouti,2014,0.19
+Africa,Nigeria,2014,0.19
+Africa,"Cote d'Ivoire",2014,0.2
+Africa,Kenya,2014,0.24
+Africa,Namibia,2014,0.29
+"South-East Asia",Bangladesh,2014,0.4
+Europe,Montenegro,2014,0.4
+Americas,Nicaragua,2014,0.43
+Americas,"Antigua and Barbuda",2014,0.45
+"Western Pacific","Lao People's Democratic Republic",2014,0.51
+"South-East Asia","Sri Lanka",2014,0.63
+"Eastern Mediterranean",Pakistan,2014,0.71
+"Eastern Mediterranean",Bahrain,2014,1
+Europe,Turkmenistan,2014,1.04
+Africa,"South Africa",2014,1.05
+"South-East Asia",India,2014,1.18
+Americas,Mexico,2014,1.29
+"Eastern Mediterranean",Morocco,2014,1.36
+Europe,Tajikistan,2014,1.44
+"Eastern Mediterranean",Egypt,2014,1.5
+Europe,Uzbekistan,2014,1.5
+Europe,Kyrgyzstan,2014,1.64
+"Western Pacific",Malaysia,2014,1.92
+Europe,Monaco,2014,10.53
+Americas,Argentina,2014,11.03
+"Western Pacific","Cook Islands",2014,12.57
+Europe,Greece,2014,12.62
+Americas,Colombia,2014,13.68
+Americas,Cuba,2014,14.74
+"Eastern Mediterranean",Iraq,2014,2.16
+Americas,"Saint Lucia",2014,2.24
+"Western Pacific",Philippines,2014,2.25
+Europe,"Bosnia and Herzegovina",2014,2.31
+"Eastern Mediterranean",Oman,2014,2.57
+Europe,Azerbaijan,2014,2.7
+Africa,Mauritius,2014,2.83
+Europe,"Russian Federation",2014,2.84
+Europe,"Türkiye",2014,2.95
+Europe,Serbia,2014,3.2
+"Eastern Mediterranean","Iran (Islamic Republic of)",2014,3.41
+Europe,Poland,2014,3.42
+Europe,Kazakhstan,2014,3.61
+Europe,Armenia,2014,3.89
+"Eastern Mediterranean","Saudi Arabia",2014,4.41
+"Western Pacific","Republic of Korea",2014,4.54
+"Western Pacific",Tuvalu,2014,4.55
+Europe,Malta,2014,4.63
+"Eastern Mediterranean","United Arab Emirates",2014,4.87
+Europe,Slovakia,2014,4.88
+Europe,"Netherlands (Kingdom of the)",2014,4.94
+Europe,Switzerland,2014,5.1
+Europe,"Republic of Moldova",2014,5.24
+Europe,"United Kingdom of Great Britain and Northern Ireland",2014,5.3
+Europe,Georgia,2014,5.67
+"Western Pacific",Australia,2014,5.71
+Europe,Belarus,2014,5.72
+Europe,Ukraine,2014,5.86
+Europe,Ireland,2014,5.92
+Americas,"United States of America",2014,5.95
+Europe,Austria,2014,6
+Americas,Canada,2014,6.15
+"Western Pacific","New Zealand",2014,6.16
+"Eastern Mediterranean",Kuwait,2014,6.19
+Europe,Hungary,2014,6.29
+Europe,France,2014,6.5
+Europe,"San Marino",2014,6.53
+Europe,Slovenia,2014,6.63
+Europe,Cyprus,2014,6.98
+Europe,Latvia,2014,7.02
+"Eastern Mediterranean",Libya,2014,7.13
+Europe,Spain,2014,7.13
+Europe,Belgium,2014,7.23
+Europe,Finland,2014,7.29
+Europe,Romania,2014,7.44
+"Eastern Mediterranean",Qatar,2014,7.49
+Europe,Czechia,2014,7.52
+Europe,Denmark,2014,7.7
+"Eastern Mediterranean",Jordan,2014,7.83
+Europe,Italy,2014,7.85
+Europe,Croatia,2014,7.89
+"Western Pacific",Japan,2014,7.92
+Europe,Israel,2014,7.98
+Europe,Sweden,2014,8.15
+"Eastern Mediterranean","Syrian Arab Republic",2014,8.18
+Europe,Andorra,2014,8.28
+Europe,Iceland,2014,8.37
+Europe,Germany,2014,8.52
+Europe,Luxembourg,2014,8.56
+"Eastern Mediterranean",Lebanon,2014,8.62
+Europe,Norway,2014,8.66
+Europe,Portugal,2014,8.77
+Europe,"North Macedonia",2014,8.82
+Americas,Chile,2014,9.02
+Europe,Lithuania,2014,9.1
+Americas,"Costa Rica",2014,9.24
+Europe,Estonia,2014,9.3
+Europe,Bulgaria,2014,9.96
+Africa,Burundi,2013,0
+Africa,Niger,2013,0.02
+Africa,Senegal,2013,0.04
+Africa,Madagascar,2013,0.05
+Africa,Mozambique,2013,0.05
+"South-East Asia",Timor-Leste,2013,0.06
+Americas,Haiti,2013,0.1
+Americas,Jamaica,2013,0.13
+"Western Pacific",Cambodia,2013,0.16
+Africa,Zimbabwe,2013,0.17
+Africa,Nigeria,2013,0.22
+Africa,Kenya,2013,0.23
+"South-East Asia",Bangladesh,2013,0.39
+Europe,Montenegro,2013,0.4
+Americas,Nicaragua,2013,0.44
+"Western Pacific","Solomon Islands",2013,0.45
+"South-East Asia","Sri Lanka",2013,0.6
+"Western Pacific",Samoa,2013,0.61
+"Western Pacific",Kiribati,2013,0.62
+"Eastern Mediterranean",Pakistan,2013,0.65
+Europe,Turkmenistan,2013,1.03
+Africa,"South Africa",2013,1.06
+"Eastern Mediterranean",Bahrain,2013,1.07
+"Western Pacific",Tonga,2013,1.12
+Americas,Mexico,2013,1.23
+Europe,Tajikistan,2013,1.47
+Europe,Uzbekistan,2013,1.6
+Europe,Kyrgyzstan,2013,1.69
+"Western Pacific",Malaysia,2013,1.74
+Americas,"Costa Rica",2013,10.03
+Europe,Monaco,2013,10.73
+Americas,Argentina,2013,10.85
+Europe,Greece,2013,12.68
+Americas,Colombia,2013,13.12
+Americas,Cuba,2013,13.5
+Europe,"Bosnia and Herzegovina",2013,2.24
+"Western Pacific",Philippines,2013,2.24
+"Eastern Mediterranean",Oman,2013,2.29
+Europe,Azerbaijan,2013,2.58
+Americas,Panama,2013,2.71
+Africa,Mauritius,2013,2.72
+Europe,"Russian Federation",2013,2.89
+Europe,"Türkiye",2013,2.92
+Americas,"Saint Lucia",2013,3.11
+Europe,Poland,2013,3.22
+Europe,Serbia,2013,3.29
+"Western Pacific",Singapore,2013,3.35
+Europe,Kazakhstan,2013,3.65
+"Eastern Mediterranean","United Arab Emirates",2013,4.06
+Europe,Armenia,2013,4.16
+"Eastern Mediterranean","Saudi Arabia",2013,4.46
+"Western Pacific","Republic of Korea",2013,4.49
+Europe,Malta,2013,4.6
+Europe,Slovakia,2013,4.78
+Europe,"Netherlands (Kingdom of the)",2013,4.9
+Europe,"Republic of Moldova",2013,5.14
+Europe,Switzerland,2013,5.2
+Europe,"United Kingdom of Great Britain and Northern Ireland",2013,5.23
+Europe,Georgia,2013,5.29
+Europe,Belarus,2013,5.49
+"Western Pacific",Australia,2013,5.62
+Europe,Ireland,2013,5.73
+Europe,Austria,2013,5.96
+Americas,"United States of America",2013,5.98
+Europe,Hungary,2013,6.03
+Americas,Canada,2013,6.1
+"Western Pacific","New Zealand",2013,6.15
+"Eastern Mediterranean",Kuwait,2013,6.27
+Europe,Slovenia,2013,6.5
+Europe,France,2013,6.53
+Europe,Ukraine,2013,6.71
+Europe,Spain,2013,6.92
+Europe,Israel,2013,6.97
+Europe,Cyprus,2013,7
+Europe,Czechia,2013,7.07
+Europe,Romania,2013,7.1
+Europe,Belgium,2013,7.14
+Europe,Finland,2013,7.2
+Europe,Latvia,2013,7.25
+Europe,Andorra,2013,7.45
+Europe,Croatia,2013,7.6
+Europe,Italy,2013,7.76
+Europe,Denmark,2013,7.83
+Americas,Chile,2013,8.14
+Europe,Sweden,2013,8.17
+Europe,Iceland,2013,8.4
+Europe,Germany,2013,8.45
+Europe,Luxembourg,2013,8.47
+Europe,"North Macedonia",2013,8.47
+Europe,Portugal,2013,8.48
+"Eastern Mediterranean",Jordan,2013,8.51
+Europe,Norway,2013,8.73
+Europe,Estonia,2013,9.03
+Europe,Lithuania,2013,9.05
+"Eastern Mediterranean",Lebanon,2013,9.18
+Europe,Bulgaria,2013,9.72
+Africa,"Burkina Faso",2012,0.02
+Africa,"United Republic of Tanzania",2012,0.02
+Africa,Mozambique,2012,0.03
+Africa,Madagascar,2012,0.08
+Americas,Jamaica,2012,0.13
+"Western Pacific",Cambodia,2012,0.15
+Africa,Zimbabwe,2012,0.17
+Africa,Nigeria,2012,0.18
+Africa,Kenya,2012,0.22
+Africa,Botswana,2012,0.26
+Africa,Comoros,2012,0.26
+"South-East Asia",Bangladesh,2012,0.31
+"Western Pacific","Solomon Islands",2012,0.38
+Europe,Montenegro,2012,0.4
+"Western Pacific",Indonesia,2012,0.42
+Americas,Nicaragua,2012,0.45
+"Western Pacific","Lao People's Democratic Republic",2012,0.49
+"South-East Asia","Sri Lanka",2012,0.58
+"South-East Asia",Myanmar,2012,0.6
+"Eastern Mediterranean",Pakistan,2012,0.61
+"Western Pacific",Vanuatu,2012,0.68
+"Western Pacific","Marshall Islands",2012,0.78
+"South-East Asia",India,2012,0.95
+Africa,"South Africa",2012,1.03
+Europe,Turkmenistan,2012,1.06
+"Eastern Mediterranean",Bahrain,2012,1.14
+Americas,Mexico,2012,1.17
+Africa,Seychelles,2012,1.41
+Europe,Tajikistan,2012,1.49
+Americas,Peru,2012,1.51
+"Western Pacific",Malaysia,2012,1.54
+Europe,Uzbekistan,2012,1.61
+Americas,"Saint Vincent and the Grenadines",2012,1.66
+Europe,Kyrgyzstan,2012,1.71
+Americas,Paraguay,2012,1.79
+"South-East Asia","Democratic People's Republic of Korea",2012,1.83
+Americas,Argentina,2012,10.58
+Europe,Monaco,2012,10.66
+Americas,Cuba,2012,12.38
+Americas,Colombia,2012,12.56
+Europe,Greece,2012,12.86
+"Western Pacific",Philippines,2012,2.24
+"Eastern Mediterranean",Oman,2012,2.27
+"Western Pacific","Brunei Darussalam",2012,2.32
+Africa,Mauritius,2012,2.34
+Europe,"Bosnia and Herzegovina",2012,2.38
+Europe,Azerbaijan,2012,2.63
+Americas,"Saint Lucia",2012,2.84
+"Western Pacific",Mongolia,2012,2.85
+Europe,"Türkiye",2012,2.85
+Europe,"Russian Federation",2012,2.93
+"Western Pacific",Singapore,2012,2.97
+Europe,Poland,2012,3.27
+Americas,Panama,2012,3.28
+Europe,Serbia,2012,3.36
+"Eastern Mediterranean","Saudi Arabia",2012,3.7
+Europe,Kazakhstan,2012,4
+"Eastern Mediterranean","United Arab Emirates",2012,4.19
+Europe,Armenia,2012,4.41
+"Western Pacific","Republic of Korea",2012,4.41
+Europe,Malta,2012,4.45
+Europe,"Republic of Moldova",2012,4.8
+Europe,"Netherlands (Kingdom of the)",2012,4.9
+Europe,Slovakia,2012,4.93
+Europe,"United Kingdom of Great Britain and Northern Ireland",2012,5.2
+Europe,Georgia,2012,5.23
+Europe,Switzerland,2012,5.23
+Europe,Belarus,2012,5.49
+"Western Pacific",Australia,2012,5.59
+Europe,Hungary,2012,5.66
+Europe,Ireland,2012,5.79
+Europe,Austria,2012,5.92
+Americas,"United States of America",2012,5.96
+Americas,Canada,2012,6.04
+"Western Pacific","New Zealand",2012,6.04
+"Eastern Mediterranean",Kuwait,2012,6.14
+Europe,Slovenia,2012,6.31
+Europe,France,2012,6.5
+Europe,Italy,2012,6.53
+Europe,Spain,2012,6.63
+Europe,Ukraine,2012,6.64
+Europe,Romania,2012,6.84
+Europe,Andorra,2012,6.9
+Europe,Cyprus,2012,7
+Americas,Chile,2012,7.02
+Europe,Israel,2012,7.06
+Europe,Belgium,2012,7.08
+Europe,Czechia,2012,7.1
+Europe,Latvia,2012,7.1
+Europe,Finland,2012,7.36
+Europe,Croatia,2012,7.57
+"Western Pacific",Japan,2012,7.79
+Europe,Denmark,2012,7.97
+Europe,Portugal,2012,8.05
+Europe,"North Macedonia",2012,8.15
+Europe,Sweden,2012,8.2
+Europe,Luxembourg,2012,8.31
+Europe,Germany,2012,8.4
+Europe,Iceland,2012,8.42
+Europe,Norway,2012,8.65
+Europe,Lithuania,2012,8.99
+Europe,Estonia,2012,9.04
+Europe,Bulgaria,2012,9.48
+Americas,"Costa Rica",2012,9.66
+Africa,Burundi,2011,0
+Africa,Cameroon,2011,0.03
+Africa,Mozambique,2011,0.03
+Americas,Haiti,2011,0.05
+Africa,"Cabo Verde",2011,0.06
+"South-East Asia",Timor-Leste,2011,0.06
+Africa,Madagascar,2011,0.08
+Africa,Nigeria,2011,0.17
+Africa,Zimbabwe,2011,0.19
+"Western Pacific",Cambodia,2011,0.2
+Africa,Kenya,2011,0.22
+Africa,Botswana,2011,0.27
+"Western Pacific",Kiribati,2011,0.27
+Africa,Congo,2011,0.29
+"South-East Asia",Bangladesh,2011,0.31
+Europe,Montenegro,2011,0.38
+Africa,Eswatini,2011,0.41
+Americas,Nicaragua,2011,0.45
+"South-East Asia","Sri Lanka",2011,0.55
+"South-East Asia",Myanmar,2011,0.56
+"Eastern Mediterranean",Pakistan,2011,0.57
+"Western Pacific","Solomon Islands",2011,0.65
+"Western Pacific",China,2011,0.88
+"South-East Asia",India,2011,0.93
+"Western Pacific",Nauru,2011,0.99
+Africa,"South Africa",2011,1.02
+"Eastern Mediterranean",Bahrain,2011,1.05
+Europe,Turkmenistan,2011,1.06
+Americas,"Bolivia (Plurinational State of)",2011,1.09
+Americas,Mexico,2011,1.17
+"Western Pacific",Malaysia,2011,1.46
+Europe,Tajikistan,2011,1.53
+Europe,Uzbekistan,2011,1.69
+Europe,Kyrgyzstan,2011,1.71
+Africa,Seychelles,2011,1.86
+Americas,"Dominican Republic",2011,1.92
+Europe,Monaco,2011,11.21
+Americas,Cuba,2011,11.32
+Americas,Colombia,2011,12.11
+"Eastern Mediterranean",Lebanon,2011,12.29
+Europe,Greece,2011,13.07
+Africa,Mauritius,2011,2.08
+Europe,"Bosnia and Herzegovina",2011,2.16
+Americas,Bahamas,2011,2.26
+"Western Pacific",Philippines,2011,2.27
+"Eastern Mediterranean",Oman,2011,2.36
+"Western Pacific","Brunei Darussalam",2011,2.38
+"Western Pacific",Mongolia,2011,2.38
+Americas,"Saint Lucia",2011,2.45
+Americas,"Trinidad and Tobago",2011,2.46
+Europe,Azerbaijan,2011,2.59
+Americas,Ecuador,2011,2.73
+Europe,"Türkiye",2011,2.84
+"Western Pacific",Singapore,2011,2.85
+Europe,"Russian Federation",2011,2.91
+Americas,Panama,2011,3.02
+Europe,Poland,2011,3.41
+Europe,Serbia,2011,3.46
+"Eastern Mediterranean","Saudi Arabia",2011,3.82
+Europe,Kazakhstan,2011,3.83
+"Eastern Mediterranean","United Arab Emirates",2011,4.17
+"Western Pacific","Republic of Korea",2011,4.36
+Europe,Malta,2011,4.38
+Europe,Armenia,2011,4.44
+Europe,Georgia,2011,4.51
+Europe,"Republic of Moldova",2011,4.7
+Europe,Slovakia,2011,4.85
+Europe,"Netherlands (Kingdom of the)",2011,4.88
+Europe,Switzerland,2011,5.21
+Europe,"United Kingdom of Great Britain and Northern Ireland",2011,5.23
+Europe,Hungary,2011,5.26
+"Western Pacific",Australia,2011,5.37
+Europe,Belarus,2011,5.41
+Europe,Ireland,2011,5.82
+Europe,Italy,2011,5.83
+"Eastern Mediterranean",Kuwait,2011,5.86
+Europe,Austria,2011,5.87
+Americas,Chile,2011,5.9
+Americas,"United States of America",2011,5.93
+Americas,Canada,2011,5.96
+"Western Pacific","New Zealand",2011,5.98
+Europe,Spain,2011,6.19
+Europe,Slovenia,2011,6.25
+Europe,France,2011,6.49
+Europe,Ukraine,2011,6.53
+Europe,Romania,2011,6.57
+Europe,Cyprus,2011,6.83
+Europe,Belgium,2011,7.05
+Europe,Andorra,2011,7.07
+Europe,Latvia,2011,7.07
+Europe,Czechia,2011,7.08
+Europe,Finland,2011,7.31
+Europe,Croatia,2011,7.39
+Europe,Portugal,2011,7.68
+Europe,Israel,2011,7.85
+Europe,"North Macedonia",2011,7.95
+Europe,Denmark,2011,8.02
+Europe,Sweden,2011,8.18
+Europe,Lithuania,2011,8.21
+Europe,Germany,2011,8.28
+Europe,Luxembourg,2011,8.41
+Europe,Norway,2011,8.84
+Europe,Iceland,2011,8.87
+Europe,Estonia,2011,8.88
+Europe,Bulgaria,2011,9.13
+Africa,Burundi,2010,0
+Africa,"Sierra Leone",2010,0.01
+Africa,"Burkina Faso",2010,0.02
+Africa,Mali,2010,0.02
+Africa,Cameroon,2010,0.03
+Africa,Mozambique,2010,0.03
+"South-East Asia",Timor-Leste,2010,0.07
+Africa,"Cabo Verde",2010,0.08
+Africa,Madagascar,2010,0.09
+Africa,Togo,2010,0.1
+"Western Pacific",Cambodia,2010,0.17
+Africa,Nigeria,2010,0.17
+Africa,Zambia,2010,0.18
+"Eastern Mediterranean",Yemen,2010,0.21
+Africa,Kenya,2010,0.22
+Africa,Botswana,2010,0.27
+"South-East Asia",Bangladesh,2010,0.29
+"Western Pacific",Indonesia,2010,0.35
+"Western Pacific",Kiribati,2010,0.37
+Europe,Montenegro,2010,0.41
+Americas,Nicaragua,2010,0.45
+"South-East Asia","Sri Lanka",2010,0.5
+"South-East Asia",Myanmar,2010,0.52
+"Eastern Mediterranean",Pakistan,2010,0.53
+"Western Pacific","Marshall Islands",2010,0.77
+"South-East Asia",Maldives,2010,0.89
+"Western Pacific",Tonga,2010,0.93
+Americas,"Bolivia (Plurinational State of)",2010,0.96
+"Eastern Mediterranean",Bahrain,2010,1.01
+Africa,"South Africa",2010,1.01
+Europe,Turkmenistan,2010,1.05
+Americas,Mexico,2010,1.16
+"Western Pacific",Malaysia,2010,1.33
+"Eastern Mediterranean",Iraq,2010,1.55
+Europe,Tajikistan,2010,1.58
+Americas,"Saint Lucia",2010,1.64
+Europe,Uzbekistan,2010,1.65
+"South-East Asia",Thailand,2010,1.73
+Europe,Kyrgyzstan,2010,1.86
+"Western Pacific",Mongolia,2010,1.97
+"Eastern Mediterranean",Lebanon,2010,10.7
+Americas,Cuba,2010,10.75
+Americas,Brazil,2010,11.51
+Americas,Colombia,2010,11.62
+Europe,Greece,2010,13.18
+Africa,Seychelles,2010,2
+Africa,Mauritius,2010,2.03
+Europe,"Bosnia and Herzegovina",2010,2.09
+"Western Pacific","Brunei Darussalam",2010,2.19
+"Western Pacific",Philippines,2010,2.25
+"Western Pacific",Samoa,2010,2.33
+"Eastern Mediterranean",Oman,2010,2.37
+Americas,"Trinidad and Tobago",2010,2.47
+Europe,Azerbaijan,2010,2.7
+Europe,"Russian Federation",2010,2.88
+"Eastern Mediterranean",Tunisia,2010,2.91
+Europe,"Türkiye",2010,2.92
+Americas,Panama,2010,3.01
+"Western Pacific",Singapore,2010,3.09
+Europe,Georgia,2010,3.23
+Europe,Poland,2010,3.29
+Europe,Serbia,2010,3.42
+"Eastern Mediterranean","Saudi Arabia",2010,3.64
+Europe,Kazakhstan,2010,3.95
+Europe,Armenia,2010,4.29
+"Western Pacific","Republic of Korea",2010,4.29
+Europe,Malta,2010,4.35
+"Eastern Mediterranean","United Arab Emirates",2010,4.44
+Europe,"Republic of Moldova",2010,4.52
+Europe,"Netherlands (Kingdom of the)",2010,4.68
+Europe,Slovakia,2010,4.94
+Europe,"United Kingdom of Great Britain and Northern Ireland",2010,5.13
+"Western Pacific",Australia,2010,5.18
+Europe,Switzerland,2010,5.25
+Europe,Hungary,2010,5.27
+Europe,Belarus,2010,5.36
+"Eastern Mediterranean",Kuwait,2010,5.55
+Americas,Chile,2010,5.57
+Europe,Italy,2010,5.66
+Americas,Canada,2010,5.79
+Europe,Austria,2010,5.81
+"Western Pacific","New Zealand",2010,5.88
+Americas,"United States of America",2010,5.89
+Europe,Spain,2010,5.94
+Europe,Ireland,2010,5.97
+Europe,Slovenia,2010,6.16
+Europe,Romania,2010,6.34
+Europe,Ukraine,2010,6.49
+Europe,Andorra,2010,6.57
+Europe,France,2010,6.8
+Europe,Cyprus,2010,6.85
+Europe,Czechia,2010,6.94
+Europe,Belgium,2010,7.02
+Europe,Latvia,2010,7.09
+"Eastern Mediterranean","Syrian Arab Republic",2010,7.11
+Europe,Finland,2010,7.33
+Europe,Croatia,2010,7.34
+Europe,Portugal,2010,7.66
+"Western Pacific",Japan,2010,7.7
+Europe,"North Macedonia",2010,7.79
+"Eastern Mediterranean",Jordan,2010,7.8
+Europe,Lithuania,2010,7.93
+Europe,Sweden,2010,8.11
+Europe,Denmark,2010,8.19
+Europe,Germany,2010,8.22
+Europe,Luxembourg,2010,8.32
+Europe,Israel,2010,8.68
+Europe,Bulgaria,2010,8.71
+Europe,Norway,2010,8.78
+Europe,Estonia,2010,9
+Europe,Iceland,2010,9.4
+Africa,"Central African Republic",2009,0.01
+Americas,Chile,2009,0.01
+Africa,"Democratic Republic of the Congo",2009,0.01
+Africa,Niger,2009,0.01
+Africa,Cameroon,2009,0.02
+Africa,Mozambique,2009,0.02
+Africa,Mali,2009,0.03
+Africa,Guinea-Bissau,2009,0.05
+Africa,"Cabo Verde",2009,0.06
+"South-East Asia",Timor-Leste,2009,0.06
+Africa,Rwanda,2009,0.07
+Africa,Madagascar,2009,0.08
+Africa,Eswatini,2009,0.12
+Africa,Zimbabwe,2009,0.14
+Africa,Nigeria,2009,0.15
+"Western Pacific","Papua New Guinea",2009,0.16
+"Western Pacific",Cambodia,2009,0.17
+Africa,Zambia,2009,0.18
+Africa,Mauritania,2009,0.21
+"Western Pacific",Indonesia,2009,0.22
+Africa,Kenya,2009,0.25
+"South-East Asia",Bangladesh,2009,0.26
+Africa,Botswana,2009,0.28
+Africa,Comoros,2009,0.33
+"Western Pacific","Lao People's Democratic Republic",2009,0.37
+Americas,Guyana,2009,0.39
+"South-East Asia","Sri Lanka",2009,0.41
+"South-East Asia",Myanmar,2009,0.47
+Americas,Nicaragua,2009,0.47
+"Eastern Mediterranean",Pakistan,2009,0.51
+Europe,Montenegro,2009,0.57
+"Eastern Mediterranean",Morocco,2009,0.83
+"South-East Asia",India,2009,0.85
+"Eastern Mediterranean",Bahrain,2009,1
+"Western Pacific",Nauru,2009,1
+"Western Pacific",Tonga,2009,1.03
+Americas,Mexico,2009,1.08
+Americas,Peru,2009,1.24
+"Western Pacific",Malaysia,2009,1.27
+"South-East Asia",Maldives,2009,1.29
+Europe,Turkmenistan,2009,1.29
+"South-East Asia",Thailand,2009,1.46
+Europe,Tajikistan,2009,1.51
+Europe,Uzbekistan,2009,1.6
+Africa,Seychelles,2009,1.71
+Europe,"Bosnia and Herzegovina",2009,1.75
+Americas,"Dominican Republic",2009,1.84
+"Western Pacific","Brunei Darussalam",2009,1.87
+"Western Pacific",Fiji,2009,1.89
+Europe,Kyrgyzstan,2009,1.92
+Africa,Mauritius,2009,1.96
+"Western Pacific",Mongolia,2009,1.98
+Americas,Cuba,2009,10.25
+Americas,Colombia,2009,11.26
+Americas,Brazil,2009,12.05
+Europe,Greece,2009,13.3
+Americas,"Trinidad and Tobago",2009,2.26
+Americas,Ecuador,2009,2.27
+"Eastern Mediterranean",Oman,2009,2.32
+"Western Pacific","Cook Islands",2009,2.42
+Europe,Azerbaijan,2009,2.72
+Europe,Georgia,2009,2.77
+Europe,"Türkiye",2009,2.84
+Europe,"Russian Federation",2009,2.85
+Americas,Panama,2009,2.9
+"Western Pacific",Singapore,2009,2.94
+"Eastern Mediterranean","Saudi Arabia",2009,3.03
+Europe,Poland,2009,3.2
+Europe,Kazakhstan,2009,3.42
+Europe,Serbia,2009,3.43
+"Eastern Mediterranean",Kuwait,2009,3.77
+"Western Pacific","Republic of Korea",2009,4.21
+Europe,Armenia,2009,4.23
+Europe,Malta,2009,4.25
+"Eastern Mediterranean","United Arab Emirates",2009,4.29
+Europe,"Republic of Moldova",2009,4.3
+"Western Pacific","New Zealand",2009,4.49
+Europe,"Netherlands (Kingdom of the)",2009,4.59
+Europe,Slovakia,2009,4.89
+Europe,Hungary,2009,4.92
+Europe,"United Kingdom of Great Britain and Northern Ireland",2009,5.02
+Europe,Italy,2009,5.19
+Europe,Switzerland,2009,5.21
+"Western Pacific",Australia,2009,5.26
+Europe,Belarus,2009,5.45
+Americas,Canada,2009,5.72
+Europe,Spain,2009,5.73
+Europe,Austria,2009,5.74
+Americas,"United States of America",2009,5.89
+Europe,Ireland,2009,5.96
+"Eastern Mediterranean",Libya,2009,5.96
+Europe,Romania,2009,6.05
+Europe,Slovenia,2009,6.07
+Europe,Andorra,2009,6.08
+"Eastern Mediterranean",Jordan,2009,6.14
+Europe,Ukraine,2009,6.37
+Europe,Czechia,2009,6.81
+Europe,Cyprus,2009,6.82
+Europe,France,2009,6.83
+Europe,"North Macedonia",2009,6.92
+Europe,Latvia,2009,7.05
+Europe,Belgium,2009,7.08
+"Eastern Mediterranean","Syrian Arab Republic",2009,7.19
+Europe,Portugal,2009,7.33
+Europe,Finland,2009,7.4
+Europe,Lithuania,2009,7.42
+Europe,Croatia,2009,7.64
+Europe,Denmark,2009,8.07
+Europe,Sweden,2009,8.08
+Europe,Germany,2009,8.12
+Europe,Luxembourg,2009,8.19
+Europe,Israel,2009,8.47
+Europe,Norway,2009,8.68
+Europe,Bulgaria,2009,8.72
+Europe,Estonia,2009,8.96
+Europe,Iceland,2009,9.23
+"Eastern Mediterranean",Lebanon,2009,9.94
+Africa,"Central African Republic",2008,0.01
+Americas,Chile,2008,0.01
+Africa,Guinea-Bissau,2008,0.01
+Africa,Liberia,2008,0.01
+Africa,Niger,2008,0.01
+Africa,"Sierra Leone",2008,0.01
+Africa,Ghana,2008,0.02
+"South-East Asia",Timor-Leste,2008,0.02
+Africa,Togo,2008,0.02
+Africa,Benin,2008,0.04
+Africa,"Cabo Verde",2008,0.06
+Africa,Rwanda,2008,0.06
+Africa,Gambia,2008,0.07
+Africa,Botswana,2008,0.09
+Africa,Senegal,2008,0.09
+Africa,Madagascar,2008,0.1
+Africa,Malawi,2008,0.12
+Africa,"Cote d'Ivoire",2008,0.13
+"Western Pacific",Vanuatu,2008,0.13
+"Eastern Mediterranean",Afghanistan,2008,0.14
+Africa,Zimbabwe,2008,0.14
+Africa,Nigeria,2008,0.16
+Americas,Jamaica,2008,0.17
+"Western Pacific",Cambodia,2008,0.18
+Africa,Gabon,2008,0.19
+"Western Pacific",Philippines,2008,0.2
+"South-East Asia",Bangladesh,2008,0.23
+"Eastern Mediterranean",Sudan,2008,0.23
+Africa,Kenya,2008,0.25
+Americas,Honduras,2008,0.3
+"South-East Asia",Myanmar,2008,0.48
+Americas,Nicaragua,2008,0.48
+"Eastern Mediterranean",Pakistan,2008,0.48
+"South-East Asia","Sri Lanka",2008,0.64
+Europe,Montenegro,2008,0.71
+"South-East Asia",India,2008,0.77
+"Western Pacific",Samoa,2008,0.89
+"Western Pacific",Nauru,2008,1
+Americas,Mexico,2008,1.05
+"Eastern Mediterranean",Bahrain,2008,1.06
+Americas,"Dominican Republic",2008,1.26
+"Western Pacific","Micronesia (Federated States of)",2008,1.29
+Africa,Seychelles,2008,1.3
+Europe,Turkmenistan,2008,1.3
+"Western Pacific",Malaysia,2008,1.32
+"South-East Asia",Thailand,2008,1.43
+Europe,Tajikistan,2008,1.46
+Europe,Uzbekistan,2008,1.64
+Europe,"Bosnia and Herzegovina",2008,1.71
+"South-East Asia","Democratic People's Republic of Korea",2008,1.74
+Africa,Mauritius,2008,1.84
+Europe,Kyrgyzstan,2008,1.87
+"Western Pacific",Tuvalu,2008,1.94
+"Western Pacific",Mongolia,2008,1.95
+Americas,Colombia,2008,10.76
+"Western Pacific",Niue,2008,11.11
+Americas,Brazil,2008,11.93
+Europe,Greece,2008,13.26
+"Eastern Mediterranean",Oman,2008,2.12
+"Western Pacific","Brunei Darussalam",2008,2.17
+Americas,Bahamas,2008,2.21
+Europe,Azerbaijan,2008,2.78
+Europe,"Türkiye",2008,2.79
+Americas,Panama,2008,2.83
+Europe,"Russian Federation",2008,2.88
+"Western Pacific",Singapore,2008,2.94
+Europe,Georgia,2008,2.96
+"Eastern Mediterranean","Saudi Arabia",2008,2.98
+"Eastern Mediterranean",Libya,2008,3.28
+"Eastern Mediterranean","United Arab Emirates",2008,3.37
+Europe,Kazakhstan,2008,3.43
+Europe,Poland,2008,3.43
+Europe,Serbia,2008,3.46
+"Eastern Mediterranean",Kuwait,2008,3.63
+Europe,Armenia,2008,4.04
+"Western Pacific","Republic of Korea",2008,4.08
+Europe,"Republic of Moldova",2008,4.2
+Europe,Malta,2008,4.37
+Europe,"Netherlands (Kingdom of the)",2008,4.46
+"Western Pacific","New Zealand",2008,4.49
+Europe,Ukraine,2008,4.54
+Europe,Italy,2008,4.8
+Europe,"United Kingdom of Great Britain and Northern Ireland",2008,4.94
+Europe,Hungary,2008,5.06
+Europe,Slovakia,2008,5.1
+Europe,Switzerland,2008,5.22
+Europe,Belarus,2008,5.37
+Europe,Spain,2008,5.56
+Europe,Austria,2008,5.65
+Americas,Canada,2008,5.68
+Europe,Romania,2008,5.72
+Americas,"United States of America",2008,5.85
+Europe,Slovenia,2008,6.01
+Europe,Ireland,2008,6.05
+Europe,"North Macedonia",2008,6.67
+Europe,Czechia,2008,6.72
+Europe,Portugal,2008,6.8
+Europe,Cyprus,2008,6.81
+Europe,France,2008,6.9
+Europe,Lithuania,2008,6.9
+Europe,Latvia,2008,6.96
+Europe,Belgium,2008,7.16
+"Eastern Mediterranean",Jordan,2008,7.29
+"Eastern Mediterranean","Syrian Arab Republic",2008,7.47
+Americas,Uruguay,2008,7.5
+"Western Pacific",Japan,2008,7.55
+Europe,Finland,2008,7.56
+Europe,Croatia,2008,7.63
+Americas,"El Salvador",2008,7.74
+Europe,Germany,2008,8.01
+Europe,Luxembourg,2008,8.14
+Europe,Sweden,2008,8.14
+Europe,Denmark,2008,8.22
+Europe,Israel,2008,8.28
+Europe,Bulgaria,2008,8.38
+Europe,Norway,2008,8.79
+Europe,Estonia,2008,9.25
+Europe,Iceland,2008,9.48
+Americas,Cuba,2008,9.95
+Americas,Chile,2007,0.01
+Africa,Ghana,2007,0.01
+Africa,Cameroon,2007,0.02
+Africa,Togo,2007,0.02
+Africa,"Cabo Verde",2007,0.06
+Africa,Gambia,2007,0.06
+"South-East Asia",Bhutan,2007,0.1
+Africa,Madagascar,2007,0.1
+"Eastern Mediterranean",Afghanistan,2007,0.12
+"South-East Asia",Bangladesh,2007,0.14
+Africa,Zimbabwe,2007,0.15
+Africa,Botswana,2007,0.17
+Africa,Nigeria,2007,0.17
+"Eastern Mediterranean",Sudan,2007,0.23
+"South-East Asia",Myanmar,2007,0.39
+Americas,Nicaragua,2007,0.44
+Africa,Namibia,2007,0.45
+"South-East Asia",India,2007,0.61
+Americas,"Bolivia (Plurinational State of)",2007,0.62
+"South-East Asia","Sri Lanka",2007,0.64
+Americas,Mexico,2007,1.01
+"Western Pacific","Marshall Islands",2007,1.15
+"Western Pacific",Malaysia,2007,1.17
+Europe,Turkmenistan,2007,1.34
+"South-East Asia",Thailand,2007,1.39
+Europe,Tajikistan,2007,1.44
+Americas,Guatemala,2007,1.74
+Africa,Seychelles,2007,1.75
+Europe,Uzbekistan,2007,1.75
+Africa,Mauritius,2007,1.8
+Europe,"Bosnia and Herzegovina",2007,1.86
+Europe,Kyrgyzstan,2007,1.92
+Americas,Colombia,2007,10.36
+Americas,Brazil,2007,11.66
+Europe,Greece,2007,13.06
+"Eastern Mediterranean",Oman,2007,2.04
+Americas,"Trinidad and Tobago",2007,2.15
+"Western Pacific","Brunei Darussalam",2007,2.18
+"Western Pacific",Palau,2007,2.59
+Europe,"Türkiye",2007,2.73
+Americas,Panama,2007,2.75
+Europe,Azerbaijan,2007,2.86
+Europe,"Russian Federation",2007,2.88
+"Western Pacific",Singapore,2007,2.95
+Europe,Georgia,2007,3.02
+Africa,Algeria,2007,3.11
+Europe,Armenia,2007,3.39
+"Eastern Mediterranean",Kuwait,2007,3.39
+"Eastern Mediterranean","United Arab Emirates",2007,3.41
+Europe,Serbia,2007,3.5
+Europe,Poland,2007,3.51
+Europe,Kazakhstan,2007,3.52
+Europe,Montenegro,2007,3.92
+"Western Pacific","Republic of Korea",2007,3.96
+Europe,"Republic of Moldova",2007,3.99
+Europe,Hungary,2007,4
+Europe,Malta,2007,4.2
+Europe,"Netherlands (Kingdom of the)",2007,4.44
+"Western Pacific","New Zealand",2007,4.44
+Europe,Ukraine,2007,4.54
+Europe,"United Kingdom of Great Britain and Northern Ireland",2007,4.79
+Europe,Belarus,2007,5
+Europe,Switzerland,2007,5.21
+Europe,Slovakia,2007,5.32
+Europe,Spain,2007,5.39
+Europe,Romania,2007,5.56
+Europe,Austria,2007,5.59
+Americas,Canada,2007,5.64
+Europe,Italy,2007,5.68
+Europe,Andorra,2007,5.74
+Europe,Ireland,2007,5.77
+Americas,"United States of America",2007,5.83
+Europe,Slovenia,2007,6.13
+Europe,"North Macedonia",2007,6.29
+Europe,Portugal,2007,6.44
+Europe,Latvia,2007,6.65
+Europe,Czechia,2007,6.72
+Europe,Cyprus,2007,6.74
+Europe,France,2007,6.98
+"Eastern Mediterranean","Syrian Arab Republic",2007,7.08
+"Eastern Mediterranean",Jordan,2007,7.16
+Europe,Lithuania,2007,7.18
+Europe,Belgium,2007,7.23
+Europe,Finland,2007,7.44
+Europe,Croatia,2007,7.57
+Europe,Germany,2007,7.92
+Europe,Luxembourg,2007,8.04
+Europe,Israel,2007,8.19
+Europe,Sweden,2007,8.29
+Europe,Denmark,2007,8.4
+Europe,Bulgaria,2007,8.52
+"Eastern Mediterranean",Lebanon,2007,8.67
+Europe,Estonia,2007,8.68
+Europe,Norway,2007,8.72
+Europe,Iceland,2007,9.43
+Americas,Cuba,2007,9.65
+Americas,Chile,2006,0.01
+Africa,"United Republic of Tanzania",2006,0.01
+Africa,"Cabo Verde",2006,0.06
+Africa,Gambia,2006,0.06
+Africa,Madagascar,2006,0.1
+"Eastern Mediterranean",Afghanistan,2006,0.13
+Africa,Nigeria,2006,0.15
+"Eastern Mediterranean",Sudan,2006,0.3
+"South-East Asia",Myanmar,2006,0.36
+Americas,Nicaragua,2006,0.45
+"South-East Asia","Sri Lanka",2006,0.58
+"South-East Asia",India,2006,0.67
+Americas,Mexico,2006,0.97
+"Eastern Mediterranean",Bahrain,2006,1.04
+"Western Pacific",Malaysia,2006,1.11
+"Eastern Mediterranean","Iran (Islamic Republic of)",2006,1.3
+"South-East Asia",Thailand,2006,1.32
+Europe,Turkmenistan,2006,1.37
+Europe,Tajikistan,2006,1.4
+Africa,Seychelles,2006,1.66
+Americas,Grenada,2006,1.73
+"Eastern Mediterranean",Tunisia,2006,1.8
+Europe,Uzbekistan,2006,1.8
+Europe,"Bosnia and Herzegovina",2006,1.9
+Europe,Kyrgyzstan,2006,1.93
+"Eastern Mediterranean",Oman,2006,1.97
+Americas,Colombia,2006,10.08
+Americas,Brazil,2006,11.64
+Europe,Greece,2006,12.87
+"Western Pacific",Niue,2006,16.67
+"Western Pacific","Brunei Darussalam",2006,2.06
+Americas,"Trinidad and Tobago",2006,2.09
+Europe,"Türkiye",2006,2.62
+"Eastern Mediterranean","United Arab Emirates",2006,2.71
+Europe,Azerbaijan,2006,2.79
+Americas,Panama,2006,2.82
+Europe,"Russian Federation",2006,2.9
+"Western Pacific",Singapore,2006,3
+Europe,Georgia,2006,3.11
+"Eastern Mediterranean",Kuwait,2006,3.14
+Europe,Armenia,2006,3.16
+Europe,Poland,2006,3.3
+Europe,Albania,2006,3.39
+Europe,Kazakhstan,2006,3.49
+Europe,Serbia,2006,3.5
+Europe,"Republic of Moldova",2006,3.76
+"Western Pacific","Republic of Korea",2006,3.86
+"Western Pacific","New Zealand",2006,4.09
+Europe,Montenegro,2006,4.15
+Europe,"Netherlands (Kingdom of the)",2006,4.27
+Europe,Ukraine,2006,4.53
+Europe,Malta,2006,4.57
+Europe,Belarus,2006,4.84
+"Western Pacific",Australia,2006,4.86
+Europe,Hungary,2006,4.97
+"Eastern Mediterranean",Qatar,2006,5
+Europe,Romania,2006,5.03
+Europe,Slovakia,2006,5.05
+Europe,Switzerland,2006,5.19
+Europe,Spain,2006,5.21
+Europe,Austria,2006,5.4
+Americas,Canada,2006,5.62
+Europe,"North Macedonia",2006,5.62
+Europe,Ireland,2006,5.66
+Europe,Andorra,2006,5.78
+Americas,"United States of America",2006,5.78
+Europe,Slovenia,2006,6
+Europe,Italy,2006,6.3
+Europe,Latvia,2006,6.49
+Europe,Portugal,2006,6.49
+Europe,Lithuania,2006,6.6
+Europe,Czechia,2006,6.73
+Europe,Cyprus,2006,6.78
+Europe,France,2006,7.03
+"Eastern Mediterranean",Jordan,2006,7.15
+Europe,Belgium,2006,7.35
+"Western Pacific",Japan,2006,7.39
+Europe,Croatia,2006,7.48
+Europe,Finland,2006,7.54
+Europe,Germany,2006,7.82
+Europe,Luxembourg,2006,7.93
+Europe,Israel,2006,8.13
+Europe,Sweden,2006,8.3
+Europe,Denmark,2006,8.51
+"Eastern Mediterranean",Lebanon,2006,8.54
+Europe,Bulgaria,2006,8.56
+Europe,Norway,2006,8.81
+Europe,Estonia,2006,8.87
+Europe,Iceland,2006,9.41
+Americas,Cuba,2006,9.53
+Americas,Chile,2005,0.01
+Africa,Cameroon,2005,0.02
+Africa,Guinea,2005,0.02
+Africa,Uganda,2005,0.04
+Africa,Gambia,2005,0.06
+Africa,"Cote d'Ivoire",2005,0.1
+Africa,Madagascar,2005,0.1
+Africa,Nigeria,2005,0.15
+"South-East Asia",Bangladesh,2005,0.16
+Africa,Comoros,2005,0.29
+"South-East Asia",Myanmar,2005,0.34
+"Western Pacific",China,2005,0.39
+Americas,Nicaragua,2005,0.46
+"South-East Asia","Sri Lanka",2005,0.47
+"South-East Asia",India,2005,0.48
+Americas,Mexico,2005,0.94
+"Eastern Mediterranean",Bahrain,2005,1.05
+"Western Pacific",Malaysia,2005,1.07
+"Western Pacific","Solomon Islands",2005,1.08
+Africa,Seychelles,2005,1.12
+"Western Pacific","Micronesia (Federated States of)",2005,1.17
+Europe,Tajikistan,2005,1.43
+Europe,Turkmenistan,2005,1.5
+Europe,"Bosnia and Herzegovina",2005,1.76
+"Eastern Mediterranean",Tunisia,2005,1.8
+"Eastern Mediterranean",Oman,2005,1.82
+"Eastern Mediterranean","Iran (Islamic Republic of)",2005,1.84
+Europe,Uzbekistan,2005,1.97
+Europe,Kyrgyzstan,2005,1.99
+Americas,Brazil,2005,11.26
+Europe,Greece,2005,12.24
+"Western Pacific","Brunei Darussalam",2005,2.03
+Europe,"Türkiye",2005,2.62
+Africa,Algeria,2005,2.73
+Europe,Azerbaijan,2005,2.78
+Americas,Panama,2005,2.83
+Europe,"Russian Federation",2005,2.88
+"Western Pacific",Singapore,2005,2.99
+"Eastern Mediterranean","United Arab Emirates",2005,3.03
+Americas,Barbados,2005,3.09
+Europe,Armenia,2005,3.19
+Europe,Poland,2005,3.21
+Europe,Kazakhstan,2005,3.27
+Europe,Georgia,2005,3.39
+Europe,"Republic of Moldova",2005,3.64
+"Western Pacific","Republic of Korea",2005,3.71
+"Western Pacific","New Zealand",2005,3.96
+Europe,"Netherlands (Kingdom of the)",2005,4.07
+Europe,Montenegro,2005,4.31
+Europe,Serbia,2005,4.46
+Europe,Hungary,2005,4.48
+Europe,Ukraine,2005,4.56
+Europe,Belarus,2005,4.71
+Europe,Malta,2005,4.72
+Europe,Romania,2005,4.82
+"Western Pacific",Australia,2005,4.96
+Europe,Spain,2005,5.04
+Europe,Switzerland,2005,5.07
+Europe,Austria,2005,5.14
+Europe,Slovakia,2005,5.43
+Americas,Canada,2005,5.6
+Europe,Ireland,2005,5.6
+Americas,"United States of America",2005,5.8
+Europe,Portugal,2005,5.93
+Europe,Andorra,2005,5.94
+Europe,Italy,2005,5.98
+Europe,Slovenia,2005,6
+Europe,Latvia,2005,6.34
+Europe,"North Macedonia",2005,6.58
+Europe,Czechia,2005,6.72
+"Eastern Mediterranean",Jordan,2005,6.96
+Europe,Cyprus,2005,7.03
+Europe,France,2005,7.07
+Americas,"El Salvador",2005,7.09
+Europe,Lithuania,2005,7.13
+Europe,Belgium,2005,7.34
+Europe,Croatia,2005,7.46
+Europe,Germany,2005,7.75
+Europe,Finland,2005,7.79
+Europe,Luxembourg,2005,7.95
+Europe,Sweden,2005,8.22
+"Eastern Mediterranean",Qatar,2005,8.36
+"Eastern Mediterranean","Syrian Arab Republic",2005,8.36
+Europe,Israel,2005,8.37
+Europe,Norway,2005,8.43
+Europe,Bulgaria,2005,8.47
+Europe,Denmark,2005,8.57
+Europe,Estonia,2005,8.78
+Americas,Cuba,2005,9.37
+Americas,Colombia,2005,9.7
+Europe,Iceland,2005,9.74
+Africa,Benin,2004,0.01
+Africa,"Central African Republic",2004,0.01
+Africa,Chad,2004,0.01
+Americas,Chile,2004,0.01
+Africa,Liberia,2004,0.01
+Africa,Mozambique,2004,0.01
+Africa,Niger,2004,0.01
+Africa,"Sierra Leone",2004,0.01
+Africa,Burundi,2004,0.02
+Africa,Guinea,2004,0.02
+Africa,Guinea-Bissau,2004,0.02
+"South-East Asia",Timor-Leste,2004,0.02
+Africa,Mali,2004,0.03
+Africa,Togo,2004,0.03
+Africa,"Burkina Faso",2004,0.04
+Africa,Uganda,2004,0.04
+Africa,Ghana,2004,0.05
+Africa,"Equatorial Guinea",2004,0.06
+Africa,Eritrea,2004,0.06
+Africa,Senegal,2004,0.06
+Africa,Madagascar,2004,0.09
+"South-East Asia",Nepal,2004,0.09
+Africa,Gabon,2004,0.1
+Africa,Angola,2004,0.12
+"Eastern Mediterranean",Djibouti,2004,0.12
+"South-East Asia",Bangladesh,2004,0.14
+"South-East Asia",Bhutan,2004,0.15
+Africa,Eswatini,2004,0.16
+Africa,Mauritania,2004,0.16
+Africa,"Cote d'Ivoire",2004,0.17
+Africa,Botswana,2004,0.21
+"Eastern Mediterranean",Yemen,2004,0.22
+"Eastern Mediterranean",Sudan,2004,0.23
+Africa,Zambia,2004,0.24
+"South-East Asia",Myanmar,2004,0.28
+Africa,Comoros,2004,0.29
+"Western Pacific",Kiribati,2004,0.31
+"South-East Asia",Maldives,2004,0.33
+"Eastern Mediterranean",Pakistan,2004,0.38
+"South-East Asia","Sri Lanka",2004,0.38
+Africa,Namibia,2004,0.42
+"South-East Asia",India,2004,0.49
+"South-East Asia",Thailand,2004,0.63
+Americas,Suriname,2004,0.82
+Americas,Mexico,2004,0.98
+"Western Pacific",Nauru,2004,0.99
+"Western Pacific",Malaysia,2004,1.01
+"Eastern Mediterranean",Egypt,2004,1.03
+"Eastern Mediterranean",Morocco,2004,1.03
+Africa,"South Africa",2004,1.14
+Americas,"Saint Vincent and the Grenadines",2004,1.15
+Africa,Mauritius,2004,1.34
+Europe,Tajikistan,2004,1.43
+Africa,Seychelles,2004,1.47
+"Eastern Mediterranean",Libya,2004,1.48
+"Eastern Mediterranean","Iran (Islamic Republic of)",2004,1.52
+Europe,Turkmenistan,2004,1.56
+"Eastern Mediterranean",Oman,2004,1.73
+Europe,"Bosnia and Herzegovina",2004,1.74
+"Western Pacific","Brunei Darussalam",2004,1.93
+"Western Pacific",Niue,2004,10.53
+Europe,Greece,2004,12.16
+Europe,Uzbekistan,2004,2.02
+Europe,Kyrgyzstan,2004,2.04
+"Eastern Mediterranean",Bahrain,2004,2.07
+"Eastern Mediterranean",Tunisia,2004,2.07
+Europe,Armenia,2004,2.34
+Europe,"Türkiye",2004,2.61
+Europe,Azerbaijan,2004,2.73
+Americas,Panama,2004,2.84
+Europe,"Russian Federation",2004,2.92
+"Western Pacific",Singapore,2004,2.94
+Europe,Georgia,2004,3.14
+"Eastern Mediterranean","United Arab Emirates",2004,3.35
+Europe,Kazakhstan,2004,3.42
+Europe,"Republic of Moldova",2004,3.47
+"Western Pacific","Republic of Korea",2004,3.58
+Europe,Poland,2004,3.7
+"Western Pacific","New Zealand",2004,3.85
+Europe,"Netherlands (Kingdom of the)",2004,4.03
+Europe,Slovakia,2004,4.35
+Europe,Malta,2004,4.41
+Europe,Romania,2004,4.43
+Europe,Ukraine,2004,4.52
+Europe,Belarus,2004,4.58
+Europe,Serbia,2004,4.73
+Europe,Spain,2004,4.87
+Europe,Switzerland,2004,4.98
+"Western Pacific",Australia,2004,5.01
+Europe,Austria,2004,5.03
+Europe,Hungary,2004,5.11
+"Western Pacific",Philippines,2004,5.31
+Europe,"North Macedonia",2004,5.44
+Europe,Ireland,2004,5.5
+Europe,Portugal,2004,5.61
+Europe,Italy,2004,5.67
+Americas,Canada,2004,5.74
+Americas,"United States of America",2004,5.8
+Europe,Slovenia,2004,5.98
+Europe,Latvia,2004,6.04
+Europe,Andorra,2004,6.06
+Europe,Lithuania,2004,6.49
+"Western Pacific","Cook Islands",2004,6.62
+Europe,Czechia,2004,6.67
+"Eastern Mediterranean",Jordan,2004,6.75
+Europe,Cyprus,2004,6.85
+Europe,France,2004,7.08
+"Western Pacific",Japan,2004,7.25
+Europe,Belgium,2004,7.4
+Europe,Croatia,2004,7.41
+Europe,Luxembourg,2004,7.72
+Europe,Germany,2004,7.73
+Europe,Finland,2004,7.93
+Europe,Norway,2004,8.05
+Europe,Estonia,2004,8.19
+Europe,Sweden,2004,8.27
+"Eastern Mediterranean","Syrian Arab Republic",2004,8.35
+Europe,Bulgaria,2004,8.4
+Europe,Denmark,2004,8.57
+Europe,Israel,2004,8.97
+Americas,Colombia,2004,9.22
+Americas,Cuba,2004,9.3
+Americas,Brazil,2004,9.75
+Europe,Iceland,2004,9.82
+Americas,Chile,2003,0.01
+Africa,Ethiopia,2003,0.01
+Africa,Lesotho,2003,0.02
+Africa,Gambia,2003,0.04
+Africa,Madagascar,2003,0.09
+Africa,Nigeria,2003,0.18
+"Western Pacific",Indonesia,2003,0.23
+"South-East Asia",India,2003,0.42
+Americas,Nicaragua,2003,0.47
+"Western Pacific",Samoa,2003,0.54
+"Western Pacific",Fiji,2003,0.69
+Americas,Jamaica,2003,0.8
+Americas,Grenada,2003,0.83
+"Western Pacific","Micronesia (Federated States of)",2003,0.89
+Americas,Mexico,2003,0.94
+"Western Pacific",Malaysia,2003,0.98
+Europe,"Bosnia and Herzegovina",2003,1.1
+Africa,Mauritius,2003,1.24
+Europe,Tajikistan,2003,1.4
+"South-East Asia","Democratic People's Republic of Korea",2003,1.64
+Americas,Ecuador,2003,1.66
+Americas,"Trinidad and Tobago",2003,1.86
+Europe,Kyrgyzstan,2003,1.92
+"Western Pacific",Niue,2003,10.53
+Europe,Greece,2003,11.98
+Europe,Turkmenistan,2003,2.02
+"Western Pacific",Tuvalu,2003,2.06
+Europe,Armenia,2003,2.07
+Europe,Uzbekistan,2003,2.09
+"Western Pacific",Tonga,2003,2.2
+Europe,"Türkiye",2003,2.62
+Europe,Azerbaijan,2003,2.71
+Americas,Panama,2003,2.72
+"Western Pacific",Singapore,2003,2.88
+Europe,Poland,2003,2.9
+Europe,"Russian Federation",2003,2.93
+"Eastern Mediterranean","United Arab Emirates",2003,3.04
+Europe,Kazakhstan,2003,3.31
+Europe,"Republic of Moldova",2003,3.35
+"Western Pacific","Republic of Korea",2003,3.37
+Europe,Georgia,2003,3.45
+"Western Pacific","New Zealand",2003,3.93
+Europe,"Netherlands (Kingdom of the)",2003,4.01
+Europe,Malta,2003,4.09
+Europe,Romania,2003,4.18
+Europe,Albania,2003,4.33
+Europe,Slovakia,2003,4.35
+Europe,Belarus,2003,4.4
+Europe,Ukraine,2003,4.52
+Europe,Serbia,2003,4.63
+"Western Pacific",Australia,2003,4.71
+Europe,Spain,2003,4.71
+Europe,Switzerland,2003,4.91
+Europe,Austria,2003,4.97
+Europe,Hungary,2003,5.29
+Europe,Portugal,2003,5.34
+Europe,Italy,2003,5.37
+Europe,Ireland,2003,5.44
+Europe,"North Macedonia",2003,5.44
+Europe,Latvia,2003,5.56
+Americas,Canada,2003,5.72
+Americas,"United States of America",2003,5.78
+Europe,Slovenia,2003,6.04
+"Eastern Mediterranean",Jordan,2003,6.05
+Europe,Andorra,2003,6.33
+Europe,Luxembourg,2003,6.49
+Europe,Czechia,2003,6.57
+Europe,Cyprus,2003,6.71
+Europe,Lithuania,2003,6.72
+Europe,France,2003,7.1
+Europe,Croatia,2003,7.16
+Europe,Belgium,2003,7.4
+Europe,Germany,2003,7.67
+Europe,Norway,2003,8.13
+Europe,Sweden,2003,8.14
+Europe,Estonia,2003,8.22
+Europe,Bulgaria,2003,8.3
+"Eastern Mediterranean","Syrian Arab Republic",2003,8.34
+Europe,Denmark,2003,8.52
+Americas,Colombia,2003,8.66
+Americas,Cuba,2003,9.07
+Americas,Brazil,2003,9.47
+Europe,Israel,2003,9.48
+Europe,Finland,2003,9.53
+Europe,Iceland,2003,9.95
+Americas,Chile,2002,0.01
+"South-East Asia",Timor-Leste,2002,0.02
+Africa,"United Republic of Tanzania",2002,0.04
+Africa,Madagascar,2002,0.07
+"South-East Asia",Bangladesh,2002,0.14
+Africa,Kenya,2002,0.23
+"South-East Asia","Sri Lanka",2002,0.38
+"South-East Asia",India,2002,0.43
+"South-East Asia",Thailand,2002,0.7
+Americas,Grenada,2002,0.83
+"Western Pacific",Malaysia,2002,0.95
+Americas,Mexico,2002,0.97
+"Western Pacific",Mongolia,2002,1.26
+"Eastern Mediterranean",Tunisia,2002,1.4
+Europe,Tajikistan,2002,1.46
+Europe,"Bosnia and Herzegovina",2002,1.64
+Americas,"Trinidad and Tobago",2002,1.65
+Americas,Ecuador,2002,1.7
+Europe,Armenia,2002,1.92
+Europe,Iceland,2002,10.01
+Americas,Uruguay,2002,12
+Europe,Greece,2002,12.04
+"Western Pacific","Brunei Darussalam",2002,2.06
+Europe,Kyrgyzstan,2002,2.06
+"Western Pacific",Tuvalu,2002,2.08
+Europe,Turkmenistan,2002,2.09
+Europe,Uzbekistan,2002,2.11
+Europe,"Türkiye",2002,2.44
+Africa,Algeria,2002,2.79
+Europe,Azerbaijan,2002,2.79
+Europe,Poland,2002,2.82
+Americas,Panama,2002,2.87
+"Eastern Mediterranean","United Arab Emirates",2002,2.91
+Europe,"Russian Federation",2002,2.96
+Europe,Kazakhstan,2002,3.2
+Europe,"Republic of Moldova",2002,3.29
+"Western Pacific","Republic of Korea",2002,3.3
+Europe,Georgia,2002,3.4
+Europe,Romania,2002,3.84
+Europe,Malta,2002,3.92
+"Western Pacific","New Zealand",2002,3.93
+Europe,"Netherlands (Kingdom of the)",2002,3.96
+"Eastern Mediterranean",Jordan,2002,4.24
+Europe,Albania,2002,4.28
+Europe,Slovakia,2002,4.35
+Europe,Belarus,2002,4.43
+Europe,Ukraine,2002,4.5
+Americas,Paraguay,2002,4.61
+Europe,Spain,2002,4.62
+"Western Pacific",Australia,2002,4.78
+Europe,Hungary,2002,4.78
+Europe,Switzerland,2002,4.81
+Europe,Austria,2002,4.9
+Europe,Portugal,2002,5.03
+"Western Pacific",Philippines,2002,5.2
+Europe,Ireland,2002,5.35
+Europe,Italy,2002,5.4
+Europe,Latvia,2002,5.46
+Americas,Canada,2002,5.69
+Europe,"North Macedonia",2002,5.7
+Americas,"United States of America",2002,5.77
+Americas,"El Salvador",2002,5.79
+Europe,Slovenia,2002,6.02
+Europe,Andorra,2002,6.32
+Europe,Luxembourg,2002,6.45
+Europe,Lithuania,2002,6.5
+Europe,Czechia,2002,6.54
+Europe,Cyprus,2002,6.62
+Europe,Croatia,2002,7.03
+Europe,France,2002,7.1
+"Western Pacific",Japan,2002,7.1
+Europe,Belgium,2002,7.44
+Europe,Germany,2002,7.59
+Europe,Bulgaria,2002,7.82
+Europe,Estonia,2002,7.82
+Americas,Colombia,2002,7.99
+Europe,Norway,2002,8.09
+Europe,Sweden,2002,8.17
+"Eastern Mediterranean","Syrian Arab Republic",2002,8.36
+Europe,Denmark,2002,8.52
+Europe,Israel,2002,8.87
+Americas,Cuba,2002,8.91
+Americas,Brazil,2002,9.14
+Europe,Finland,2002,9.6
+"South-East Asia",Timor-Leste,2001,0.01
+"Eastern Mediterranean",Pakistan,2001,0.29
+"South-East Asia",India,2001,0.44
+"South-East Asia",Thailand,2001,0.68
+Americas,Grenada,2001,0.83
+"Eastern Mediterranean","Saudi Arabia",2001,0.93
+"Western Pacific",Malaysia,2001,0.95
+Americas,Mexico,2001,0.97
+"Eastern Mediterranean",Tunisia,2001,1.4
+Europe,Tajikistan,2001,1.44
+Europe,"Bosnia and Herzegovina",2001,1.63
+Americas,Ecuador,2001,1.64
+Americas,"Trinidad and Tobago",2001,1.65
+Europe,Armenia,2001,1.67
+Americas,"Saint Lucia",2001,1.69
+Americas,"Saint Vincent and the Grenadines",2001,1.85
+Europe,Iceland,2001,10
+Europe,Greece,2001,11.43
+Europe,Uzbekistan,2001,2.11
+Europe,Kyrgyzstan,2001,2.12
+Europe,Turkmenistan,2001,2.25
+Americas,Barbados,2001,2.29
+Europe,"Türkiye",2001,2.43
+Americas,Panama,2001,2.49
+"Western Pacific",Singapore,2001,2.64
+Europe,Poland,2001,2.65
+Europe,Azerbaijan,2001,2.73
+Europe,Kazakhstan,2001,2.78
+"Eastern Mediterranean","United Arab Emirates",2001,2.81
+Europe,"Russian Federation",2001,2.96
+Europe,"Republic of Moldova",2001,3.11
+"Western Pacific","Republic of Korea",2001,3.13
+Europe,Georgia,2001,3.17
+"Western Pacific",Tonga,2001,3.2
+Americas,"Saint Kitts and Nevis",2001,3.28
+"Eastern Mediterranean",Kuwait,2001,3.35
+Europe,Hungary,2001,3.58
+Europe,Romania,2001,3.75
+Europe,Malta,2001,3.92
+Europe,"Netherlands (Kingdom of the)",2001,3.93
+"Western Pacific","New Zealand",2001,4.11
+Europe,Slovakia,2001,4.41
+Europe,Belarus,2001,4.42
+Europe,Ukraine,2001,4.48
+Europe,Spain,2001,4.49
+Europe,Portugal,2001,4.69
+"Western Pacific",Australia,2001,4.75
+Europe,Switzerland,2001,4.75
+Europe,Austria,2001,4.82
+Europe,Albania,2001,4.84
+Europe,Ireland,2001,5.19
+"Eastern Mediterranean",Jordan,2001,5.22
+Europe,Latvia,2001,5.3
+Europe,Italy,2001,5.41
+Europe,"North Macedonia",2001,5.45
+Americas,"Venezuela (Bolivarian Republic of)",2001,5.48
+Americas,Canada,2001,5.63
+Americas,"United States of America",2001,5.75
+Europe,Slovenia,2001,5.92
+Europe,Luxembourg,2001,6.23
+Europe,Andorra,2001,6.37
+Europe,Czechia,2001,6.55
+"Western Pacific","Cook Islands",2001,6.58
+Europe,Cyprus,2001,6.58
+Europe,Lithuania,2001,6.95
+Europe,Croatia,2001,7.02
+Europe,France,2001,7.12
+Americas,Colombia,2001,7.22
+Europe,Belgium,2001,7.47
+Europe,Germany,2001,7.57
+Europe,Norway,2001,8.04
+Europe,Estonia,2001,8.08
+Europe,Sweden,2001,8.11
+Europe,Bulgaria,2001,8.18
+Europe,Israel,2001,8.2
+Europe,Denmark,2001,8.6
+Americas,Brazil,2001,8.76
+Americas,Cuba,2001,8.86
+Europe,Finland,2001,9.66
+"Eastern Mediterranean",Lebanon,2001,9.73
+Africa,Guinea,2000,0.02
+Africa,Eswatini,2000,0.03
+"Western Pacific","Papua New Guinea",2000,0.16
+"Western Pacific",Cambodia,2000,0.17
+"Eastern Mediterranean",Pakistan,2000,0.27
+"South-East Asia","Sri Lanka",2000,0.33
+"South-East Asia",India,2000,0.37
+Americas,Guyana,2000,0.39
+Americas,"Saint Vincent and the Grenadines",2000,0.44
+Americas,Grenada,2000,0.84
+"Western Pacific",Malaysia,2000,0.93
+Americas,Mexico,2000,1.01
+"Western Pacific",Philippines,2000,1.08
+"Eastern Mediterranean",Oman,2000,1.15
+"Western Pacific","Micronesia (Federated States of)",2000,1.25
+Americas,Belize,2000,1.33
+"Eastern Mediterranean",Tunisia,2000,1.35
+"Western Pacific","Brunei Darussalam",2000,1.47
+Europe,Tajikistan,2000,1.47
+Americas,"Trinidad and Tobago",2000,1.5
+Americas,Ecuador,2000,1.63
+Europe,"Bosnia and Herzegovina",2000,1.74
+Americas,Honduras,2000,1.74
+Europe,Iceland,2000,10.06
+Europe,Greece,2000,11.47
+Europe,Uzbekistan,2000,2.06
+Europe,Kyrgyzstan,2000,2.23
+"Eastern Mediterranean","United Arab Emirates",2000,2.3
+Europe,Armenia,2000,2.37
+Europe,Turkmenistan,2000,2.37
+Europe,"Türkiye",2000,2.43
+Europe,Kazakhstan,2000,2.55
+Europe,Azerbaijan,2000,2.73
+Europe,"Russian Federation",2000,2.97
+Europe,Poland,2000,3.07
+"Western Pacific","Republic of Korea",2000,3.08
+Europe,"Republic of Moldova",2000,3.14
+Europe,Hungary,2000,3.24
+Europe,Georgia,2000,3.48
+Europe,Romania,2000,3.61
+Americas,"Costa Rica",2000,3.73
+Europe,"Netherlands (Kingdom of the)",2000,3.9
+Europe,Malta,2000,3.93
+"Western Pacific","New Zealand",2000,4.12
+Europe,Spain,2000,4.28
+Europe,Portugal,2000,4.33
+Europe,Slovakia,2000,4.43
+Europe,Belarus,2000,4.49
+Europe,Ukraine,2000,4.51
+"Western Pacific",Australia,2000,4.54
+Europe,Albania,2000,4.6
+Europe,Austria,2000,4.65
+Americas,"United States of America",2000,4.77
+Europe,Switzerland,2000,4.83
+Europe,Ireland,2000,4.99
+Europe,Latvia,2000,5.22
+"Eastern Mediterranean",Jordan,2000,5.36
+Europe,"North Macedonia",2000,5.49
+Europe,Italy,2000,5.59
+Americas,Canada,2000,5.6
+Europe,Slovenia,2000,5.83
+Europe,Luxembourg,2000,5.96
+Europe,Czechia,2000,6.5
+Europe,Cyprus,2000,6.53
+Europe,Andorra,2000,6.55
+"Eastern Mediterranean","Syrian Arab Republic",2000,6.71
+Europe,Lithuania,2000,6.85
+Europe,Croatia,2000,6.88
+"Western Pacific",Japan,2000,6.96
+Europe,France,2000,7.16
+Europe,Belgium,2000,7.47
+Europe,Germany,2000,7.51
+Europe,Estonia,2000,7.54
+Americas,Colombia,2000,7.76
+Europe,Norway,2000,8.03
+Europe,Sweden,2000,8.07
+Europe,Israel,2000,8.18
+Europe,Bulgaria,2000,8.47
+Europe,Denmark,2000,8.58
+Americas,Brazil,2000,8.82
+Americas,Cuba,2000,8.93
+Europe,Finland,2000,9.71
+"Eastern Mediterranean",Djibouti,1999,0.08
+"Eastern Mediterranean",Pakistan,1999,0.25
+"South-East Asia","Sri Lanka",1999,0.28
+"Western Pacific",Fiji,1999,0.39
+"Eastern Mediterranean",Oman,1999,0.47
+Americas,"Saint Lucia",1999,0.57
+"Western Pacific","Solomon Islands",1999,0.6
+"South-East Asia",Thailand,1999,0.65
+Americas,Grenada,1999,0.84
+"Western Pacific",Malaysia,1999,0.85
+Americas,Mexico,1999,1.04
+Americas,Peru,1999,1.07
+"Eastern Mediterranean",Tunisia,1999,1.35
+Europe,Tajikistan,1999,1.44
+Americas,"Trinidad and Tobago",1999,1.44
+Americas,Ecuador,1999,1.6
+Europe,"Bosnia and Herzegovina",1999,1.72
+Europe,Turkmenistan,1999,1.77
+Americas,Guatemala,1999,1.79
+Europe,Iceland,1999,10.02
+Europe,Greece,1999,11.33
+Europe,"Türkiye",1999,2.16
+Europe,Uzbekistan,1999,2.21
+"Western Pacific",Singapore,1999,2.38
+Europe,Kyrgyzstan,1999,2.53
+Americas,Panama,1999,2.7
+Europe,"Russian Federation",1999,2.73
+Europe,Azerbaijan,1999,2.77
+"Western Pacific","Republic of Korea",1999,3.02
+Americas,"Saint Kitts and Nevis",1999,3.14
+Europe,Romania,1999,3.21
+Europe,Armenia,1999,3.24
+Europe,Poland,1999,3.46
+Europe,Portugal,1999,3.76
+Europe,Kazakhstan,1999,3.84
+Europe,"Netherlands (Kingdom of the)",1999,3.85
+Europe,Georgia,1999,3.87
+Europe,Malta,1999,3.96
+Europe,"Republic of Moldova",1999,4
+"Western Pacific","New Zealand",1999,4.06
+Europe,Spain,1999,4.14
+Europe,Albania,1999,4.47
+Europe,Belarus,1999,4.47
+Europe,Hungary,1999,4.51
+Europe,Austria,1999,4.59
+Europe,Latvia,1999,4.69
+"Western Pacific",Australia,1999,4.7
+Europe,Andorra,1999,4.72
+Europe,Ireland,1999,4.78
+Europe,Switzerland,1999,4.83
+Americas,"El Salvador",1999,5.01
+"Eastern Mediterranean",Jordan,1999,5.14
+Europe,"North Macedonia",1999,5.51
+Americas,Canada,1999,5.52
+Europe,Bulgaria,1999,5.77
+Europe,Slovenia,1999,5.86
+Europe,Italy,1999,6.12
+Europe,Luxembourg,1999,6.26
+Europe,Czechia,1999,6.27
+Europe,Cyprus,1999,6.49
+Europe,Lithuania,1999,6.5
+"Eastern Mediterranean","Syrian Arab Republic",1999,6.59
+Europe,Croatia,1999,6.65
+Europe,France,1999,7.22
+Europe,Germany,1999,7.44
+Americas,Colombia,1999,7.51
+Europe,Estonia,1999,7.55
+Europe,Belgium,1999,8.14
+Europe,Norway,1999,8.15
+Europe,Sweden,1999,8.17
+Americas,Brazil,1999,8.47
+Europe,Denmark,1999,8.62
+Americas,Cuba,1999,8.96
+Europe,Israel,1999,9.53
+Europe,Finland,1999,9.7
+"Western Pacific",Cambodia,1998,0.06
+Americas,Haiti,1998,0.12
+"Eastern Mediterranean",Pakistan,1998,0.24
+"South-East Asia","Sri Lanka",1998,0.26
+Africa,Congo,1998,0.34
+"Eastern Mediterranean",Oman,1998,0.42
+"Western Pacific",Kiribati,1998,0.47
+"South-East Asia",Thailand,1998,0.64
+"Western Pacific",Malaysia,1998,0.96
+Americas,Mexico,1998,1.02
+"Eastern Mediterranean",Tunisia,1998,1.34
+Americas,"Trinidad and Tobago",1998,1.44
+Americas,Ecuador,1998,1.54
+Europe,Turkmenistan,1998,1.79
+Europe,Tajikistan,1998,1.84
+Europe,Israel,1998,10.02
+Europe,Greece,1998,11.19
+"Western Pacific",Palau,1998,12.97
+Europe,"Türkiye",1998,2.06
+Europe,Romania,1998,2.41
+Europe,Kazakhstan,1998,2.42
+Europe,Uzbekistan,1998,2.43
+Europe,Kyrgyzstan,1998,2.61
+Americas,Panama,1998,2.72
+Europe,"Russian Federation",1998,2.73
+Americas,"Saint Kitts and Nevis",1998,2.73
+"Western Pacific","Republic of Korea",1998,2.79
+Europe,Azerbaijan,1998,2.84
+Europe,Armenia,1998,3.27
+Europe,Portugal,1998,3.34
+Europe,Malta,1998,3.43
+Europe,Georgia,1998,3.5
+"Western Pacific","New Zealand",1998,3.93
+Europe,Spain,1998,3.97
+Europe,Belarus,1998,4.11
+Europe,Latvia,1998,4.14
+Europe,"Republic of Moldova",1998,4.24
+Europe,Albania,1998,4.33
+Europe,Hungary,1998,4.39
+Europe,Poland,1998,4.52
+Europe,"Netherlands (Kingdom of the)",1998,4.53
+Europe,Austria,1998,4.54
+Europe,Ireland,1998,4.62
+"Western Pacific",Australia,1998,4.69
+"Eastern Mediterranean",Jordan,1998,4.84
+Europe,Switzerland,1998,4.88
+Europe,Andorra,1998,5.2
+Europe,Italy,1998,5.42
+Americas,Canada,1998,5.44
+Europe,"North Macedonia",1998,5.61
+Europe,Slovenia,1998,5.91
+Europe,Bulgaria,1998,5.95
+Europe,Luxembourg,1998,6.18
+Europe,Czechia,1998,6.22
+Europe,Lithuania,1998,6.27
+Europe,Cyprus,1998,6.42
+"Eastern Mediterranean","Syrian Arab Republic",1998,6.62
+Europe,Croatia,1998,6.66
+"Western Pacific",Japan,1998,6.77
+Europe,France,1998,7.18
+Americas,Colombia,1998,7.28
+Europe,Germany,1998,7.37
+Europe,Estonia,1998,7.41
+Americas,Argentina,1998,7.95
+Europe,Belgium,1998,8.08
+Americas,Brazil,1998,8.18
+Europe,Sweden,1998,8.19
+Europe,Norway,1998,8.22
+Europe,Denmark,1998,8.73
+Americas,Cuba,1998,8.95
+Europe,Finland,1998,9.67
+Europe,Iceland,1998,9.89
+Africa,Angola,1997,0
+"Eastern Mediterranean",Yemen,1997,0.14
+"Eastern Mediterranean",Pakistan,1997,0.22
+"South-East Asia","Sri Lanka",1997,0.25
+"Eastern Mediterranean",Oman,1997,0.38
+Americas,"Saint Vincent and the Grenadines",1997,0.53
+"South-East Asia",Thailand,1997,0.56
+Americas,Dominica,1997,0.58
+Americas,Grenada,1997,0.67
+"Western Pacific",Malaysia,1997,0.87
+Americas,Mexico,1997,1
+Americas,"Trinidad and Tobago",1997,1.23
+"Eastern Mediterranean",Tunisia,1997,1.27
+"Eastern Mediterranean",Libya,1997,1.37
+Europe,Tajikistan,1997,1.55
+Americas,Ecuador,1997,1.57
+Americas,"Antigua and Barbuda",1997,1.83
+Europe,"Türkiye",1997,1.99
+Europe,Iceland,1997,10.47
+Europe,Greece,1997,10.96
+Americas,"Saint Kitts and Nevis",1997,2.3
+Europe,Romania,1997,2.36
+Europe,Uzbekistan,1997,2.46
+Europe,Kyrgyzstan,1997,2.61
+Americas,Panama,1997,2.62
+Europe,Kazakhstan,1997,2.63
+"Western Pacific","Republic of Korea",1997,2.68
+Europe,"Russian Federation",1997,2.69
+Europe,Portugal,1997,2.99
+Europe,Azerbaijan,1997,3.06
+Europe,Malta,1997,3.12
+Europe,Armenia,1997,3.31
+Europe,Georgia,1997,3.64
+Europe,Hungary,1997,3.72
+Europe,Spain,1997,3.78
+"Western Pacific","New Zealand",1997,3.9
+Europe,Belarus,1997,3.94
+Europe,Albania,1997,4.21
+Europe,"Republic of Moldova",1997,4.28
+Europe,Latvia,1997,4.41
+Europe,"Netherlands (Kingdom of the)",1997,4.47
+Europe,"United Kingdom of Great Britain and Northern Ireland",1997,4.48
+Europe,Austria,1997,4.54
+Europe,Ireland,1997,4.55
+Europe,Poland,1997,4.6
+"Western Pacific",Australia,1997,4.64
+Europe,Italy,1997,4.9
+Europe,Switzerland,1997,5.01
+Europe,"North Macedonia",1997,5.38
+Americas,Canada,1997,5.4
+Europe,Luxembourg,1997,5.85
+Europe,Slovenia,1997,5.87
+Europe,Lithuania,1997,5.89
+Americas,Brazil,1997,6.16
+Europe,Czechia,1997,6.29
+Europe,Croatia,1997,6.3
+"Eastern Mediterranean","Syrian Arab Republic",1997,6.33
+Europe,Bulgaria,1997,6.38
+Europe,Cyprus,1997,6.38
+Americas,Colombia,1997,7.04
+Europe,France,1997,7.09
+Europe,Germany,1997,7.29
+Europe,Estonia,1997,7.34
+Europe,Andorra,1997,7.42
+Europe,Belgium,1997,7.95
+Europe,Sweden,1997,8.17
+Europe,Norway,1997,8.38
+Europe,Denmark,1997,8.62
+Americas,Cuba,1997,8.93
+Europe,Israel,1997,9.45
+Europe,Finland,1997,9.58
+"Western Pacific",Cambodia,1996,0.06
+"Eastern Mediterranean",Pakistan,1996,0.21
+"South-East Asia","Sri Lanka",1996,0.24
+"Western Pacific",Malaysia,1996,0.86
+Americas,Mexico,1996,0.97
+Americas,"Trinidad and Tobago",1996,1.08
+"Eastern Mediterranean",Tunisia,1996,1.19
+Americas,Ecuador,1996,1.54
+Europe,Tajikistan,1996,1.58
+Europe,"Türkiye",1996,1.96
+Europe,Iceland,1996,10.3
+Europe,Greece,1996,10.8
+Europe,Kyrgyzstan,1996,2.36
+"Western Pacific","Republic of Korea",1996,2.53
+Americas,"Saint Kitts and Nevis",1996,2.56
+Americas,Panama,1996,2.64
+Europe,Romania,1996,2.65
+Europe,"Russian Federation",1996,2.65
+Europe,Portugal,1996,2.76
+Europe,Azerbaijan,1996,3.17
+Europe,Albania,1996,3.18
+Europe,Armenia,1996,3.34
+Europe,Hungary,1996,3.57
+Europe,Georgia,1996,3.59
+"Western Pacific","New Zealand",1996,3.66
+Europe,Kazakhstan,1996,3.68
+Europe,Spain,1996,3.7
+Europe,Belarus,1996,3.82
+Europe,"Republic of Moldova",1996,4.19
+Europe,Austria,1996,4.41
+Europe,Ireland,1996,4.42
+Europe,Lithuania,1996,4.64
+"Western Pacific",Australia,1996,4.66
+Europe,Poland,1996,4.66
+Europe,Latvia,1996,4.68
+Europe,"Netherlands (Kingdom of the)",1996,4.68
+Europe,Italy,1996,4.72
+Europe,Switzerland,1996,4.89
+Americas,Canada,1996,5.31
+Europe,"North Macedonia",1996,5.36
+Europe,Luxembourg,1996,5.58
+Europe,Slovenia,1996,5.68
+Europe,Croatia,1996,6.07
+Europe,Czechia,1996,6.09
+Europe,Cyprus,1996,6.33
+"Western Pacific",Japan,1996,6.62
+Europe,Bulgaria,1996,6.63
+Americas,Colombia,1996,6.72
+Europe,Estonia,1996,6.98
+Europe,France,1996,7.14
+Europe,Germany,1996,7.22
+Europe,Belgium,1996,7.87
+Europe,Norway,1996,8.28
+Europe,Sweden,1996,8.42
+Europe,Denmark,1996,8.57
+"Western Pacific",Niue,1996,8.7
+Americas,Cuba,1996,8.76
+Europe,Israel,1996,8.85
+Europe,Finland,1996,9.44
+Africa,Zimbabwe,1995,0.14
+"Eastern Mediterranean",Pakistan,1995,0.2
+"South-East Asia","Sri Lanka",1995,0.22
+"South-East Asia",Thailand,1995,0.49
+"Eastern Mediterranean",Oman,1995,0.67
+"Western Pacific",Malaysia,1995,0.86
+Americas,Mexico,1995,0.97
+Americas,"Trinidad and Tobago",1995,1.04
+"Eastern Mediterranean",Tunisia,1995,1.13
+Americas,Ecuador,1995,1.51
+Europe,Tajikistan,1995,1.61
+Europe,"Türkiye",1995,1.89
+Americas,Barbados,1995,1.91
+Europe,Iceland,1995,10.09
+Europe,Greece,1995,10.14
+Europe,Monaco,1995,10.76
+Europe,Israel,1995,10.82
+Europe,Kyrgyzstan,1995,2.3
+"Western Pacific","Republic of Korea",1995,2.44
+Americas,Panama,1995,2.49
+Europe,Portugal,1995,2.52
+Europe,"Russian Federation",1995,2.58
+Americas,"Saint Kitts and Nevis",1995,2.6
+Europe,Romania,1995,2.67
+Europe,Armenia,1995,3.19
+Europe,Azerbaijan,1995,3.23
+Europe,Hungary,1995,3.5
+Europe,Spain,1995,3.5
+Europe,Albania,1995,3.51
+Europe,Latvia,1995,3.57
+Europe,Belarus,1995,3.62
+"Western Pacific","New Zealand",1995,3.66
+Europe,Italy,1995,4.01
+Europe,Kazakhstan,1995,4.01
+Europe,"Netherlands (Kingdom of the)",1995,4.08
+Europe,Austria,1995,4.25
+Europe,Ireland,1995,4.34
+Europe,"Republic of Moldova",1995,4.36
+"Western Pacific",Australia,1995,4.58
+Europe,Poland,1995,4.64
+Europe,Lithuania,1995,4.7
+Europe,Andorra,1995,4.85
+Europe,Switzerland,1995,4.93
+Americas,Canada,1995,5.29
+Europe,"North Macedonia",1995,5.43
+Europe,Luxembourg,1995,5.46
+Europe,Croatia,1995,5.78
+Europe,Czechia,1995,6.06
+Europe,Cyprus,1995,6.29
+Europe,Slovenia,1995,6.36
+Europe,Estonia,1995,6.4
+Americas,Colombia,1995,6.42
+Europe,Bulgaria,1995,6.56
+Europe,Germany,1995,7.13
+Europe,France,1995,7.18
+Europe,Belgium,1995,7.75
+Europe,Norway,1995,8.18
+Americas,Cuba,1995,8.37
+Europe,Denmark,1995,8.54
+Europe,Sweden,1995,8.65
+Europe,Finland,1995,9.32
+"Eastern Mediterranean",Pakistan,1994,0.2
+Americas,Mexico,1994,0.75
+"Western Pacific",Malaysia,1994,0.86
+"Eastern Mediterranean",Tunisia,1994,1.12
+Americas,Ecuador,1994,1.54
+Europe,Tajikistan,1994,1.59
+Europe,"Türkiye",1994,1.91
+Europe,Iceland,1994,10.26
+Europe,Greece,1994,10.38
+Europe,Israel,1994,10.88
+Europe,Sweden,1994,14.84
+"Western Pacific","Republic of Korea",1994,2.29
+Europe,Portugal,1994,2.31
+Americas,Panama,1994,2.35
+Americas,"Saint Kitts and Nevis",1994,2.39
+Europe,Kyrgyzstan,1994,2.58
+Europe,Romania,1994,2.6
+Europe,"Russian Federation",1994,2.76
+Europe,Armenia,1994,3.08
+Europe,Azerbaijan,1994,3.24
+Europe,Spain,1994,3.32
+Europe,Hungary,1994,3.51
+Europe,Belarus,1994,3.56
+Europe,Latvia,1994,3.56
+"Western Pacific","New Zealand",1994,3.62
+Europe,Albania,1994,3.95
+Europe,Kazakhstan,1994,3.98
+Europe,Austria,1994,4.13
+Europe,Ireland,1994,4.16
+Europe,Italy,1994,4.18
+Europe,"Republic of Moldova",1994,4.34
+"Western Pacific",Australia,1994,4.35
+Europe,Poland,1994,4.56
+Europe,"Netherlands (Kingdom of the)",1994,4.73
+Europe,Lithuania,1994,4.97
+Europe,Switzerland,1994,4.98
+Europe,Luxembourg,1994,5.22
+Europe,Slovenia,1994,5.31
+Europe,"North Macedonia",1994,5.46
+Europe,Croatia,1994,5.54
+Europe,Czechia,1994,5.95
+Europe,Estonia,1994,6.05
+Americas,Colombia,1994,6.16
+Europe,Cyprus,1994,6.24
+"Western Pacific",Japan,1994,6.31
+Europe,Bulgaria,1994,6.58
+Europe,Germany,1994,6.96
+Europe,France,1994,7.24
+Europe,Belgium,1994,7.58
+Americas,Cuba,1994,8.12
+Europe,Norway,1994,8.16
+Europe,Denmark,1994,8.55
+Europe,Finland,1994,9.06
+"Eastern Mediterranean",Pakistan,1993,0.19
+"South-East Asia","Sri Lanka",1993,0.23
+"South-East Asia",Thailand,1993,0.49
+Americas,Mexico,1993,0.71
+"Western Pacific",Malaysia,1993,0.83
+"Eastern Mediterranean",Tunisia,1993,1.13
+Americas,Ecuador,1993,1.38
+Europe,Tajikistan,1993,1.64
+Europe,"Türkiye",1993,1.88
+Europe,Iceland,1993,10.01
+Europe,Greece,1993,10.31
+Europe,Israel,1993,10.9
+Europe,Sweden,1993,14.69
+Europe,Portugal,1993,2.07
+"Western Pacific","Republic of Korea",1993,2.16
+Americas,"Saint Kitts and Nevis",1993,2.18
+Americas,Panama,1993,2.2
+Europe,Kyrgyzstan,1993,2.64
+Europe,"Russian Federation",1993,2.72
+Europe,Romania,1993,2.77
+Europe,Malta,1993,2.91
+Europe,Armenia,1993,3.04
+Europe,Spain,1993,3.09
+Europe,Azerbaijan,1993,3.14
+Europe,Hungary,1993,3.36
+Europe,Latvia,1993,3.4
+Europe,Belarus,1993,3.45
+"Western Pacific","New Zealand",1993,3.66
+Europe,Albania,1993,3.77
+Europe,Austria,1993,3.98
+Europe,Ireland,1993,4.01
+Europe,Italy,1993,4.2
+Europe,Kazakhstan,1993,4.24
+Europe,"Republic of Moldova",1993,4.27
+"Western Pacific",Australia,1993,4.3
+Europe,Poland,1993,4.43
+Europe,"Netherlands (Kingdom of the)",1993,4.72
+Europe,Switzerland,1993,4.77
+Europe,Slovenia,1993,4.86
+Europe,Luxembourg,1993,5.11
+Europe,Lithuania,1993,5.27
+Europe,"North Macedonia",1993,5.37
+Europe,Croatia,1993,5.66
+Europe,Czechia,1993,5.71
+Europe,Estonia,1993,5.82
+Americas,Colombia,1993,5.98
+Europe,Cyprus,1993,6.03
+Europe,Bulgaria,1993,6.76
+Europe,Germany,1993,6.81
+Europe,France,1993,7.19
+Europe,Belgium,1993,7.53
+Americas,Cuba,1993,7.87
+Europe,Norway,1993,8.15
+Europe,Denmark,1993,8.43
+Europe,Finland,1993,8.85
+"Eastern Mediterranean",Pakistan,1992,0.18
+"South-East Asia","Sri Lanka",1992,0.21
+Americas,Mexico,1992,0.63
+"Western Pacific",Malaysia,1992,0.83
+"Eastern Mediterranean",Tunisia,1992,1.12
+Europe,Tajikistan,1992,1.55
+Americas,Ecuador,1992,1.67
+Europe,Portugal,1992,1.78
+Europe,"Türkiye",1992,1.85
+Europe,Greece,1992,10.04
+Europe,Israel,1992,11
+Europe,Monaco,1992,11.65
+Europe,Sweden,1992,14.55
+"Western Pacific","Republic of Korea",1992,2.01
+Americas,"Saint Kitts and Nevis",1992,2.21
+Americas,Panama,1992,2.23
+Europe,"Russian Federation",1992,2.68
+Europe,Kyrgyzstan,1992,2.83
+Europe,Romania,1992,2.83
+Europe,Armenia,1992,2.99
+Europe,Spain,1992,3
+Europe,Azerbaijan,1992,3.1
+Europe,Hungary,1992,3.25
+Europe,Belarus,1992,3.27
+Europe,Albania,1992,3.63
+"Western Pacific","New Zealand",1992,3.64
+Europe,Latvia,1992,3.69
+Europe,Austria,1992,3.82
+Europe,Ireland,1992,3.93
+Europe,Italy,1992,4
+Europe,Kazakhstan,1992,4.11
+Europe,Croatia,1992,4.25
+"Western Pacific",Australia,1992,4.27
+Europe,"Republic of Moldova",1992,4.31
+Europe,Poland,1992,4.35
+Europe,"Netherlands (Kingdom of the)",1992,4.72
+Europe,Switzerland,1992,4.9
+Americas,Canada,1992,5.23
+Europe,Luxembourg,1992,5.23
+Europe,Slovenia,1992,5.28
+Europe,"North Macedonia",1992,5.3
+Europe,Czechia,1992,5.49
+Europe,Estonia,1992,5.52
+Europe,Lithuania,1992,5.53
+Americas,Colombia,1992,5.77
+Europe,Cyprus,1992,5.95
+"Western Pacific",Japan,1992,6.08
+Americas,Argentina,1992,6.5
+Europe,Germany,1992,6.57
+Europe,Bulgaria,1992,6.67
+Europe,France,1992,7.17
+Americas,Cuba,1992,7.47
+Europe,Belgium,1992,7.49
+Europe,Norway,1992,8.21
+Europe,Denmark,1992,8.46
+Europe,Finland,1992,8.74
+Europe,Iceland,1992,9.84
+"South-East Asia",India,1991,0.15
+"South-East Asia","Sri Lanka",1991,0.19
+"South-East Asia",Thailand,1991,0.43
+Americas,Mexico,1991,0.6
+"Western Pacific",Malaysia,1991,0.82
+"Eastern Mediterranean",Tunisia,1991,0.95
+Europe,Tajikistan,1991,1.38
+Americas,Ecuador,1991,1.55
+Europe,Portugal,1991,1.7
+Americas,"Saint Kitts and Nevis",1991,1.73
+"Western Pacific","Republic of Korea",1991,1.85
+Europe,"Türkiye",1991,1.86
+Europe,Israel,1991,11.14
+Europe,Denmark,1991,13.17
+Europe,Sweden,1991,14.43
+Americas,Panama,1991,2.12
+Europe,Hungary,1991,2.34
+Europe,Romania,1991,2.82
+Europe,Kyrgyzstan,1991,2.84
+Europe,Spain,1991,2.87
+Europe,Armenia,1991,2.96
+Europe,"Bosnia and Herzegovina",1991,3.02
+Europe,Azerbaijan,1991,3.04
+Europe,Belarus,1991,3.22
+Europe,Italy,1991,3.44
+Europe,Albania,1991,3.52
+"Western Pacific","New Zealand",1991,3.63
+Europe,Austria,1991,3.72
+Europe,Ireland,1991,3.81
+Europe,Kazakhstan,1991,4
+"Western Pacific",Australia,1991,4.19
+Europe,"Republic of Moldova",1991,4.26
+Europe,Croatia,1991,4.3
+Europe,Poland,1991,4.6
+Europe,Switzerland,1991,4.79
+Europe,"Netherlands (Kingdom of the)",1991,4.87
+Europe,Luxembourg,1991,5.12
+Americas,Canada,1991,5.16
+Europe,Slovenia,1991,5.27
+Europe,Estonia,1991,5.31
+Europe,"North Macedonia",1991,5.44
+Europe,Czechia,1991,5.49
+Americas,Colombia,1991,5.5
+Europe,Latvia,1991,5.58
+Europe,Lithuania,1991,5.73
+Europe,Cyprus,1991,5.77
+Europe,Bulgaria,1991,6.78
+Americas,Cuba,1991,7.01
+Europe,France,1991,7.13
+Europe,Belgium,1991,7.41
+Europe,Norway,1991,8.16
+Europe,Finland,1991,8.6
+Europe,Iceland,1991,9.35
+Europe,Greece,1991,9.95
+Africa,Zimbabwe,1990,0.13
+"South-East Asia","Sri Lanka",1990,0.22
+"Eastern Mediterranean",Oman,1990,0.48
+Americas,Mexico,1990,0.55
+"Western Pacific",Malaysia,1990,0.83
+"Eastern Mediterranean",Tunisia,1990,0.97
+Americas,Ecuador,1990,1.45
+Europe,Tajikistan,1990,1.47
+Europe,Portugal,1990,1.69
+"Western Pacific","Republic of Korea",1990,1.76
+Europe,"Türkiye",1990,1.88
+Europe,Israel,1990,10.27
+Europe,Denmark,1990,13.08
+Europe,Sweden,1990,14.32
+Americas,Panama,1990,2.06
+Europe,Hungary,1990,2.27
+Europe,Italy,1990,2.36
+Europe,Spain,1990,2.65
+Europe,Kyrgyzstan,1990,2.79
+Europe,Romania,1990,2.93
+Americas,"Saint Kitts and Nevis",1990,2.97
+Europe,Armenia,1990,2.99
+Europe,Azerbaijan,1990,2.99
+Europe,"Bosnia and Herzegovina",1990,3.17
+Europe,Belarus,1990,3.18
+Europe,Albania,1990,3.4
+Europe,Austria,1990,3.61
+"Western Pacific","New Zealand",1990,3.61
+Europe,Ireland,1990,3.74
+Europe,Kazakhstan,1990,4.04
+"Western Pacific",Australia,1990,4.22
+Europe,"Republic of Moldova",1990,4.38
+Europe,Croatia,1990,4.68
+Europe,Poland,1990,4.78
+Europe,Switzerland,1990,4.87
+Americas,Canada,1990,5.16
+Europe,Estonia,1990,5.17
+Americas,Colombia,1990,5.18
+Europe,Luxembourg,1990,5.19
+Europe,"Netherlands (Kingdom of the)",1990,5.26
+Europe,"North Macedonia",1990,5.39
+Europe,Cyprus,1990,5.43
+Europe,Czechia,1990,5.46
+Europe,Slovenia,1990,5.64
+Europe,Latvia,1990,5.79
+"Western Pacific",Japan,1990,5.84
+Europe,Lithuania,1990,6.05
+Americas,Cuba,1990,6.55
+Europe,Bulgaria,1990,6.92
+Europe,France,1990,7.05
+Europe,Belgium,1990,7.31
+Europe,Norway,1990,8.21
+Europe,Finland,1990,8.39
+Europe,Iceland,1990,9.03
+Europe,Greece,1990,9.79

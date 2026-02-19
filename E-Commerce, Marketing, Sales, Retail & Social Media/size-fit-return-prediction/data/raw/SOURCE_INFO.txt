@@ -1,0 +1,57 @@
+PROJECT: Size & Fit Return Prediction — Retail Apparel EDA
+PHASE: Data Acquisition (Phase 1)
+PURPOSE: Record original dataset source and metadata for reproducibility
+
+------------------------------------------------------------
+DATASET SOURCE INFORMATION
+------------------------------------------------------------
+
+Dataset Name:
+Clothing Fit Dataset for Size Recommendation
+
+Kaggle URL:
+https://www.kaggle.com/datasets/rmisra/clothing-fit-dataset-for-size-recommendation
+
+Dataset Author / Owner:
+Rishabh Misra (Kaggle)
+
+Download Date:
+2026-02-19
+
+License:
+Publicly available on Kaggle for research and educational use.
+Refer to the Kaggle listing for full licensing terms and restrictions.
+
+------------------------------------------------------------
+FILES DOWNLOADED
+------------------------------------------------------------
+
+1. modcloth_final_data.json
+   File Size: 39.616
+   Platform: ModCloth (Retail Apparel)
+
+2. renttherunway_final_data.json
+   File Size: 120.364 MB
+   Platform: Rent the Runway (Dress Rental)
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+
+- Original filenames have NOT been renamed to preserve reproducibility.
+- Files are stored in: data/raw/
+- Raw files are excluded from version control via .gitignore.
+- All transformations are performed within Excel Power Query.
+- No modifications were made directly to the raw JSON files.
+
+------------------------------------------------------------
+REPRODUCIBILITY STATEMENT
+------------------------------------------------------------
+
+This document ensures that future users can:
+1. Re-download the exact dataset version
+2. Validate file origin and authenticity
+3. Reproduce the Power Query import process
+4. Maintain traceability of external data sources
+
+End of file.
