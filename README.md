@@ -1,11 +1,43 @@
 # EDA-DA-Project
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-DuckDB%20%7C%20SQLite-003B57?logo=duckdb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-003B57?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-4.3+-276DC3?logo=r&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)
+
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboard-4285F4?style=flat&logo=googleanalytics&logoColor=white)
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-Analytics%20DB-FFF000?logo=duckdb&logoColor=black)
+
+![Microsoft Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-Documentation-2B579A?logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-Presentations-B7472A?logo=microsoft-powerpoint&logoColor=white)
+
 ![BigQuery](https://img.shields.io/badge/BigQuery-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Spreadsheet-34A853?logo=googlesheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-Presentation-FBBC05?logo=googleslides&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Web%20Analytics-E37400?logo=googleanalytics&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-IDE-75AADB?logo=rstudio&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-Notebook-F37626?logo=jupyter&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-10A37F?logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-AI-8E75B2?logo=google&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Copilot-AI%20Assistant-000000?logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-000000)
+
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
