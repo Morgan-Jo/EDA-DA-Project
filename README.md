@@ -46,6 +46,20 @@ Exploratory Data Analysis projects using Python, R, and SQL to understand data s
 Each project demonstrates data cleaning, validation, and a clear workflow from raw data to insight ready outputs.  
 Designed for Data Analyst portfolios and interview discussion.
 
+## Table of Contents
+
+- [Objectives](#objectives)
+- [Industries Covered](#industries-covered)
+- [Repository Structure](#repository-structure)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools and Technologies](#tools-and-technologies)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Clone the Repository](#clone-the-repository)
+- [Datasets](#datasets)
+- [Author](#author)
+- [License](#license)
+- [Disclaimer](#discliamer)
+
 ## Objectives
 - Understand dataset structure and quality
 - Produce clear and reproducible summary statistics
@@ -82,7 +96,7 @@ EDA-DA-Project/
 │
 ├── Sport/                   
 │
-└── README.md
+└── README.md ← You are here
 ```
 
 Each project folder typically contains:
@@ -107,14 +121,19 @@ Each project folder typically contains:
 - Insight focused storytelling for stakeholders
 
 ## Tools and Technologies
-- Python
-- R
-- SQL
-- Tableau
-- Google Looker
-- VS Code
-- RStudio
-- Microsoft Word, Excel and Powerpoint
+
+| Layer | Tool |
+|-------|------|
+| **Language** | Pyhton, R, SQL |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **BI and Visualisation** | Tableau, Google Looker |
+| **Database ORM and SQL Engine** | SQLAlchemy, SQLite3, DuckDB |
+| **Microsoft** | Excel, Work, PowerPoint |
+| **Google** | BigQuery, Sheet, Slide, Looker, Analytics |
+| **Notebooks** | JupyterLab |
+| **IDE** | VS Code, RStudio |
+| **Version Control** | Git, GitHub |
+| **AI** | ChatGPT, Gemini, Copilot, Claude |
 
 ## How to Use This Repository
 - Browse by industry folder
@@ -138,6 +157,10 @@ git clone https://github.com/Morgan-Jo/EDA-DA-Project.git
 
 ## Author
 Morgan J. Tonner
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 All datasets used in this repository are publicly available, synthetic, or anonymised.  
